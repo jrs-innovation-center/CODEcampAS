@@ -43,3 +43,5 @@ equals(
   3
 )
 </div>
+
+[Back](/functions)

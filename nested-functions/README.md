@@ -16,3 +16,5 @@ add(1,
 - [Exercise 2](/nested-functions/2)
 - [Exercise 3](/nested-functions/3)
 - [Exercise 4](/nested-functions/4)
+
+[Home](/) | [Prev](/functions) | [Next](/dom)

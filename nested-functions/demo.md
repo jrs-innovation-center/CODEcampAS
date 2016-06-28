@@ -28,3 +28,5 @@ const { add, subtract } = require('notebook')('twilson63/mathfn/1.0.0')
 // 10 + (20 - 10)
 
 </div>
+
+[Back](/nested-functions)

@@ -38,3 +38,5 @@ const calculate = function (...e) {
 
 calculate(10, '+', 2, '-', 4, '*', 2)
 ```
+
+[Back](/calculator)

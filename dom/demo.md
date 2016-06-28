@@ -14,3 +14,5 @@ el.addEventListener('click', function (e) {
   alert('You Clicked a button')
 })
 ```
+
+[Back](/dom)

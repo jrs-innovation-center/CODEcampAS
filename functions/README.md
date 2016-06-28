@@ -32,3 +32,15 @@ function [name] ([arguments]) {
 ```
 
 The basic signature of a function is to provide a name after the function keyword, then parenthesis with your input, the input data is separated by commas, then you instructions or statements.
+
+[Demo](/demo)
+
+## Exercises
+
+
+- [Exercise 1](/functions/1)
+- [Exercise 2](/functions/2)
+- [Exercise 3](/functions/3)
+- [Exercise 4](/functions/4)
+
+[Home](/) | [Prev](/) | [Next](/nested-functions)
