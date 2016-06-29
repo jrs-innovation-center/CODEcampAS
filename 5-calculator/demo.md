@@ -1,5 +1,9 @@
 # Calculator Demo
 
+https://hyperdev.com/#!/project/ginger-thunder
+
+https://ginger-thunder.hyperdev.space/
+
 ```
 const ADD = '+', MINUS = '-', TIMES = '*', DIVIDE = '/'
 
@@ -12,7 +16,7 @@ const divide = (a,b) => b ? a / b : b => a / b
 const isNumber = v => typeof v === 'number' ? true : false
 const isFunction = v => typeof v === 'function' ? true : false
 
-const operators = {
+const operator = {
   ADD: add,
   MINUS: subtract,
   TIMES: multiply,
@@ -21,7 +25,7 @@ const operators = {
 
 const calc = function (acc, x) {
   if (isNumber(acc)) {
-    return operators[x](acc)
+    return operator[x](acc)
   }
 
   if (isFunction(acc)) {
