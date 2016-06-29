@@ -36,19 +36,10 @@ After a student has taken this course, the student should be:
 
 ## Lessons
 
-- [HTML - Hello World](/1-html-hello-world)
-- [HTML - Heading 1 - Name your Character](/2-html-heading-character-name)
-- [HTML - Paragraphs - Origin Story](/3-html-paragraphs-origin-story)
-- [HTML - Lists - Super Powers](/4-html-lists)
-- [HTML - Images - Build your Avatar](/5-html-images)
-- [HTML - Links - MAZE](/6-html-links)
-- [CSS - Colors]
-- [CSS - Layouts]
-- [CSS - Animation]
-- [JS - Functions](/functions)
-- [JS - Nested Functions](/nested-functions)
-- [JS - DOM](/dom)
-- [JS - Events - Magic Eight Ball](/magic-eight-ball)
-- [JS - Project - Calculator](/calculator)
-- [JS - Project - Journal](/journal)
-- [JS - Project - Snake Game]
+- [Hello World](/1-hello-world)
+- [First Web Site](/2-first-web-site)
+- [Maze Game](/3-maze-game)
+- [Magic Eight Ball](/4-magic-eight-ball)
+- [Calculator](/5-calculator)
+- [Journal](/6-journal)
+- [Snake Game](/7-snake-game)

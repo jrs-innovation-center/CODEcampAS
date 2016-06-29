@@ -2,6 +2,11 @@
 
 In a calculator engine we want to create a module or library.
 
+## Lessons
+
+- [JS - Conditionals - if-statement](/conditionals-if)
+
+
 ## Steps
 
 - [ ] Setup Page
@@ -11,3 +16,5 @@ In a calculator engine we want to create a module or library.
 - [ ] Create Calculator Reduce Method
 - [ ] Build User Interface
 - [ ] Handle Click Events
+
+[Home](/) | [Prev](/3-maze-game) | [Next](/5-calculator)
