@@ -10,6 +10,6 @@
   "author": "Tom",
   "license": "ISC",
   "dependencies": {
-    "codecampkit": "^1.0.1"
+    "codecampkit": "^2.0.3"
   }
 }
