@@ -36,10 +36,10 @@ After a student has taken this course, the student should be:
 
 ## Lessons
 
-- [Hello World](/1-hello-world)
-- [First Web Site](/2-first-web-site)
-- [Maze Game](/3-maze-game)
-- [Magic Eight Ball](/4-magic-eight-ball)
-- [Calculator](/5-calculator)
-- [Journal](/6-journal)
-- [Snake Game](/7-snake-game)
+- [Hello World](/1-hello-world/)
+- [First Web Site](/2-first-web-site/)
+- [Maze Game](/3-maze-game/)
+- [Magic Eight Ball](/4-magic-eight-ball/)
+- [Calculator](/5-calculator/)
+- [Journal](/6-journal/)
+- [Snake Game](/7-snake-game/)

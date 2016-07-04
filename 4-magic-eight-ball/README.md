@@ -4,12 +4,12 @@ The magic eight ball was a toy that you could ask a yes or no questions and then
 
 ## Lessons
 
-- [Functions](/functions)
-- [Nested Functions](/nested-functions)
-- [DOM](/dom)
+- [Functions](functions)
+- [Nested Functions](nested-functions)
+- [DOM](dom)
 
 ## App
 
-[Demo](/magic-eight-ball/demo)
+[Demo](demo)
 
 [Home](/) | [Prev](/3-maze-game) | [Next](/5-calculator)

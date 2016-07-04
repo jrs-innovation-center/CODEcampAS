@@ -8,9 +8,8 @@ We are going to build a web page for a super hero character, the first thing we 
 
 Can't think of a character name, use this name generator to create a name:
 
-<script src="https://embed.tonicdev.com" data-element-id="namegen"></script>
-
-<div id="namegen">
+<div id="namegen" class="tonic">
+<pre><code>
 var codename = require("codename")()
 var filters = ['random'],
     lists = ['crayons', 'adjectives', 'animals']
@@ -23,6 +22,8 @@ codename.generate(filters, lists)
   .map(w => w.toLowerCase().replace(' ', '-'))
   .join('-')
   .concat('-' + getRandomInt(0,100).toString())
+
+</code></pre>
 </div>
 
 ---
@@ -34,4 +35,4 @@ Lets create a webpage project using this template
 > It will be important to take note of the name of the web page so the instructor can create a table of contents
 
 
-[Index](/first-web-site) | [Next](/first-web-site/story)
+[Index](README) | [Next](story)
