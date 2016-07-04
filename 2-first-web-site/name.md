@@ -39,7 +39,7 @@ Lets create a webpage project using this template
 
 If you don't want to use hyperdev, you can click the advanced option and download to you local computer and run the exercise from there, then use a service like now to deploy to the cloud.
 
-[local instructions](local-instructions.md)
+[local instructions](local-instructions)
 
 > It will be important to take note of the name of the web page so the instructor can create a table of contents
 
