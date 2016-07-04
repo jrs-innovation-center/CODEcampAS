@@ -9,7 +9,6 @@ We are going to build a web page for a super hero character, the first thing we 
 Can't think of a character name, use this name generator to create a name:
 
 <div id="namegen" class="tonic">
-<pre><code>
 var codename = require("codename")()
 var filters = ['random'],
     lists = ['crayons', 'adjectives', 'animals']
@@ -23,7 +22,6 @@ codename.generate(filters, lists)
   .join('-')
   .concat('-' + getRandomInt(0,100).toString())
 
-</code></pre>
 </div>
 
 ---

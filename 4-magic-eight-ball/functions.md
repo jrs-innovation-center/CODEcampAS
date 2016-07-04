@@ -10,11 +10,9 @@ The function takes some input then does some processing and returns some output.
 
 In this example, we are invoking or calling a function that is common in most javascript runtimes.  It is the `log` function, and it is attached to the console `object`
 
-<script src="https://embed.tonicdev.com" data-element-id="my-element"></script>
-
 <!-- anywhere else on your page -->
-<div id="my-element">
-console.log('hello world')
+<div class="tonic">
+console.log('hello world')  
 </div>
 
 ---

@@ -27,4 +27,4 @@ In this project we will create a very simple journal application, you will be ab
 - [ ] Fetching Data
 - [ ] Posting Data
 
-[Home](/) | [Prev](/5-calculator) | [Next](/7-snake-game)
+[Home](/) | [Prev](/5-calculator/) | [Next](/7-snake-game/)

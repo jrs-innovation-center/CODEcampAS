@@ -18,4 +18,4 @@ In a calculator engine we want to create a module or library.
 - [ ] Build User Interface
 - [ ] Handle Click Events
 
-[Home](/) | [Prev](/3-maze-game) | [Next](/5-calculator)
+[Home](/) | [Prev](/3-maze-game/) | [Next](/6-journal/)

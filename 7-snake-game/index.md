@@ -151,3 +151,6 @@ init()
 
 </script>
 ```
+
+
+[Home](/) | [Prev](/6-journal/)

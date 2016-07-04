@@ -28,4 +28,4 @@ In this project, we will build a simple maze game that you can add to your websi
 > Continue to build out your maze creating more rooms, use animation and background colors and images to make the maze interactive
 
 
-[Home](/) | [Prev](/2-first-web-site) | [Next](/4-magic-eight-ball)
+[Home](/) | [Prev](/2-first-web-site/) | [Next](/4-magic-eight-ball/)

@@ -22,4 +22,4 @@ present the data embedded with in the element tag. A tag is how the elements enc
 - [Lists](3)
 - [Layout](4)
 
-[Home](/) | [Next](/2-first-web-site)
+[Home](/) | [Next](/2-first-web-site/)
