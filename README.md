@@ -1,6 +1,6 @@
 # CODECampKids AfterSchool Course Documentation
 
-This github repository uses `codecampkit` to generate a course work website for the after school program.
+This github repository uses [codecampkit](http://codecampkit-docs.cfapps.io/) to generate a course work website for the after school program.
 
 Currently, the site is located on https://codecampkids.cfapps.io currently.
 
@@ -52,6 +52,27 @@ console.log('hello world')
 
 ## JSBin
 
+JSBin is an interactive environment that can be embedded into your project markdown files, any file that is not named `index.md`.
+
+To embed the jsbin project file, simply use a hyperlink with a `jsbin-embed` class
+
+You can grab the hyperlink information from the jsbin share feature and use the the snapshot option.
+
+```
+<a class="jsbin-embed foo" href="http://jsbin.com/iwovaj/74/embed?js,output">
+    Simple Animation Tests</a>
+```
+
 ## Hyperdev
 
-## Code10k
+Hyperdev is a free online development platform that is light weight and enables collaborative environments online, so you can let your students watch you code as an instructor and they can invite you to their project and let you review code, simply by sharing links. One requirement is a github account, if you do not want the kids to create their own github account, you can use the provided at the workshop.
+
+** Ask a CodeCampAS Instructor
+
+## License
+
+[MIT](../blob/master/LICENSE.md)
+
+## Code of Conduct
+
+[code of conduct](../blob/master/CODE_OF_CONDUCT.md)
