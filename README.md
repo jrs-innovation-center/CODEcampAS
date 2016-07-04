@@ -45,9 +45,13 @@ TonicDev is an embeddable nodejs console, that enables you to create exercises t
 To embed a tonic dev code block use the pre tags
 
 ```
-<pre class="tonic">
+<div class="tonic">
+<pre>
 console.log('hello world')
+console.log('good bye moon')
+
 </pre>
+</div>
 ```
 
 ## JSBin

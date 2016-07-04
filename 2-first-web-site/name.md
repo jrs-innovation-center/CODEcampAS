@@ -8,7 +8,9 @@ We are going to build a web page for a super hero character, the first thing we 
 
 Can't think of a character name, use this name generator to create a name:
 
-<div id="namegen" class="tonic">
+<div class="tonic">
+<pre>
+
 var codename = require("codename")()
 var filters = ['random'],
     lists = ['crayons', 'adjectives', 'animals']
@@ -22,6 +24,7 @@ codename.generate(filters, lists)
   .join('-')
   .concat('-' + getRandomInt(0,100).toString())
 
+</pre>
 </div>
 
 ---
@@ -29,6 +32,14 @@ codename.generate(filters, lists)
 Now that we have a name, we need to start our first web page:
 
 Lets create a webpage project using this template
+
+<a href="https://hyperdev.com/#!/project/proud-myth" target="\_new">
+  Hyperdev: proud-myth
+</a>
+
+If you don't want to use hyperdev, you can click the advanced option and download to you local computer and run the exercise from there, then use a service like now to deploy to the cloud.
+
+[local instructions](local-instructions.md)
 
 > It will be important to take note of the name of the web page so the instructor can create a table of contents
 
