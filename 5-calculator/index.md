@@ -4,7 +4,9 @@ In a calculator engine we want to create a module or library.
 
 ## Lessons
 
-- [JS - Conditionals - if-statement](/conditionals-if)
+- [Conditionals](conditionals)
+- [Constants](constants)
+- [comparisons](comparisons)
 
 [Demo](https://hyperdev.com/#!/project/ginger-thunder)
 
