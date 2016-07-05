@@ -1,3 +1,9 @@
 # Story
 
-[Index](/first-web-site) | [Prev](/first-web-site/name) | [Next](/first-web-site/powers)
+Lets create an origin story for your character.
+
+Using MadLibs we can create a story for your character and attach the story on to your web page as a paragraph
+
+<a class="jsbin-embed" href="http://jsbin.com/gademu/6/embed?output">JS Bin on jsbin.com</a>
+
+[Index](.) | [Prev](name) | [Next](powers)

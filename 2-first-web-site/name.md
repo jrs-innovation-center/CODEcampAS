@@ -44,4 +44,4 @@ If you don't want to use hyperdev, you can click the advanced option and downloa
 > It will be important to take note of the name of the web page so the instructor can create a table of contents
 
 
-[Index](README) | [Next](story)
+[Index](.) | [Next](story)
