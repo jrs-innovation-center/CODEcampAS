@@ -1,8 +1,12 @@
 # CODECampKids AfterSchool Course Documentation
 
-This github repository uses [codecampkit](http://codecampkit-docs.cfapps.io/) to generate a course work website for the after school program.
+CODEcamp After School is a weekday code education program that allows middle school students to explore their creativity by learning the fundamentals of web development through project-based learning.
 
-Currently, the site is located on https://codecampkids.cfapps.io currently.
+CODEcamp After School offers middle school kids a challenging, age appropriate, project-based experience that translates into real skill building while reinforcing the core STEM concepts they are learning in their other classes. The program will be offered as an after school program for 90 minutes, four days a week.
+
+This github repository uses [codecampkit](https://github.com/jrs-innovation-center/codecampkit) to generate a course work website for the after school program.
+
+
 
 ## Contributing
 
@@ -72,6 +76,11 @@ You can grab the hyperlink information from the jsbin share feature and use the 
 Hyperdev is a free online development platform that is light weight and enables collaborative environments online, so you can let your students watch you code as an instructor and they can invite you to their project and let you review code, simply by sharing links. One requirement is a github account, if you do not want the kids to create their own github account, you can use the provided at the workshop.
 
 ** Ask a CodeCampAS Instructor
+
+### How do I discuss with the instructors about content?
+
+* [Issues](../issues)
+* [Slack](https://codecampas.slack.com)
 
 ## License
 
