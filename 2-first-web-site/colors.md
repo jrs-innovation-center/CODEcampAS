@@ -1,3 +1,3 @@
 # Colors
 
-[Index](/first-web-site) | [Prev](/first-web-site/css-format) | [Next](/first-web-site/layout)
+[Index](.) | [Prev](css-format) | [Next](layout)

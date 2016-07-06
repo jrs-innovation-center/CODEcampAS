@@ -2,7 +2,7 @@
 
 Using CSS you can position your content to different parts of the screen:
 
-<a class="jsbin-embed" href="http://jsbin.com/rinule/1/embed?css,output">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/rinule/1/embed?output">JS Bin on jsbin.com</a>
 
 In this example, we are using css to create a left and right column.
 
@@ -12,6 +12,6 @@ Using something like `Skeleton` or `Bootstrap` can save time building your own g
 
 http://getskeleton.com/#grid
 
-<a class="jsbin-embed" href="http://jsbin.com/tivozu/1/embed?html,output">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/tivozu/1/embed?output">JS Bin on jsbin.com</a>
 
 [Index](.) | [Prev](colors) | [Next](ids-and-classes)
