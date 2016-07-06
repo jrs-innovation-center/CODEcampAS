@@ -14,4 +14,4 @@ In order to get started learning you want to understand that this course takes s
 
 This is just the starting point, it takes years to become an expert of these languages and software development in general, but if you like creating and like this course, there will be more opportunities to go farther and learn more.
 
-[Home](/) | [Next](/1-html-hello-world)
+[Home](/) | [Next](/1-hello-world/)

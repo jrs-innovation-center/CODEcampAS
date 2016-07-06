@@ -1,3 +1,17 @@
 # Layout
 
-[Index](/first-web-site) | [Prev](/first-web-site/css-format) | [Next](/first-web-site/ids-and-classes)
+Using CSS you can position your content to different parts of the screen:
+
+<a class="jsbin-embed" href="http://jsbin.com/rinule/1/embed?css,output">JS Bin on jsbin.com</a>
+
+In this example, we are using css to create a left and right column.
+
+You can also create grids, using css:
+
+Using something like `Skeleton` or `Bootstrap` can save time building your own grid.
+
+http://getskeleton.com/#grid
+
+<a class="jsbin-embed" href="http://jsbin.com/tivozu/1/embed?html,output">JS Bin on jsbin.com</a>
+
+[Index](.) | [Prev](colors) | [Next](ids-and-classes)
