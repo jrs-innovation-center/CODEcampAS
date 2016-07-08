@@ -1,12 +1,12 @@
 # Character Name
 
-Now that we have played around with some html elements lets start to create and publish your first web or html page.
+Now that we have played around with some HTML elements lets start to create and publish your first web or HTML page.
 
-We are going to build a web page for a super hero character, the first thing we need is a name by creating a name we will have a title for our page.
+We are going to build a web page for a superhero character, the first thing we need is a name. By creating a name we will have a title for our page.
 
 # Name Generator
 
-Can't think of a character name, use this name generator to create a name:
+Can't think of a character name? Use this name generator to create a name:
 
 <div class="tonic">
 <pre>
@@ -31,13 +31,13 @@ codename.generate(filters, lists)
 
 Now that we have a name, we need to start our first web page:
 
-Lets create a webpage project using this template
+Lets create a web page project using this template
 
 <a href="https://hyperdev.com/#!/project/proud-myth" target="\_new">
   Hyperdev: proud-myth
 </a>
 
-If you don't want to use hyperdev, you can click the advanced option and download to you local computer and run the exercise from there, then use a service like now to deploy to the cloud.
+If you don't want to use Hyperdev, you can select the advanced option and download to you local computer and run the exercise from there, then use a service like [now](https://zeit.co/now) to deploy to the cloud.
 
 [local instructions](local-instructions)
 
