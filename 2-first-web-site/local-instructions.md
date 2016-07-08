@@ -2,7 +2,7 @@
 
 ## Step 1
 
-Download from hyperdev
+Download from Hyperdev
 
 <a href="https://hyperdev.com/#!/project/proud-myth" target="\_new">
   Hyperdev: proud-myth
@@ -14,7 +14,7 @@ Install nodejs
 
 Install project dependencies
 
-> replace project name with the directory your download files are extracted to.
+> replace project name with the directory your download files are extracted to
 
 ```
 cd project_name
