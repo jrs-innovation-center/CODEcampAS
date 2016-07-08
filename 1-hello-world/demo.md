@@ -8,7 +8,7 @@ In this demo, we will create our first web page, or html document.
 
 ### Now you give it a try!
 
-Create your first html page or web page by typing hello world in between the h1
+Create your first html page or web page by typing hello world in between the `h1`
 tags.
 
 <a class="jsbin-embed" href="http://jsbin.com/zotewu/2/embed?html,output">JS Bin on jsbin.com</a>
