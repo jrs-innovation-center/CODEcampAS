@@ -6,14 +6,14 @@ Your character needs super powers, use the `unordered list` and `list item` elem
 
 Or we could put things in an ordered list:
 
-<a class="jsbin-embed" href="http://jsbin.com/kelaqi/2/embed?html,output">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/kelaqi/2/embed?html,output">Ordered Lists on jsbin.com</a>
 
 ## Exercise
 
-Using the `ul` and `li` tags, create a list of super powers on your characters web page.
+Using the `ul` and `li` tags, create a list of super powers on your character's web page.
 
 <a class="jsbin-embed" href="http://jsbin.com/gukoja/1/embed?html,output">Super Powers on jsbin.com</a>
 
-Once you created them here, copy them to your website on `http://hyperdev.com` or locally
+Once you have created them here, copy them to your website on `http://hyperdev.com` or locally.
 
 [Index](.) | [Prev](story) | [Next](avatar)
