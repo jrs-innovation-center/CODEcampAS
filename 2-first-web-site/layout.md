@@ -14,4 +14,4 @@ http://getskeleton.com/#grid
 
 <a class="jsbin-embed" href="http://jsbin.com/tivozu/1/embed?output">JS Bin on jsbin.com</a>
 
-[Index](.) | [Prev](colors) | [Next](ids-and-classes)
+[Index](.) | [Prev](css-format) | [Next](ids-and-classes)

@@ -7,7 +7,6 @@ In this project, you will create a website that you can use to hold links to all
 - [Powers](powers)
 - [Avatar](avatar)
 - [CSS - format](css-format)
-- [Colors](colors)
 - [Layout](layout)
 - [CSS - ids and classes](ids-and-classes)
 - [Animation](animation)

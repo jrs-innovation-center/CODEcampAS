@@ -28,4 +28,4 @@ In your web page, use the following css commands to dress up your page:
 - font-size
 
 
-[Index](.) | [Prev](avatar) | [Next](colors)
+[Index](.) | [Prev](avatar) | [Next](layout)
