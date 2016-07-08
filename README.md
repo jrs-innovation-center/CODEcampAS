@@ -39,7 +39,7 @@ The pattern is a very simple strategy:
 
 * Introduce Concept
 * Demonstrate Concept to Students
-* Have students practice concept using exercises
+* Have students practice the Concept using exercises
 * Walk through the exercises with students
 
 ## TonicDev
@@ -62,9 +62,9 @@ console.log('good bye moon')
 
 JSBin is an interactive environment that can be embedded into your project markdown files, any file that is not named `index.md`.
 
-To embed the jsbin project file, simply use a hyperlink with a `jsbin-embed` class
+To embed the JSbin project file, simply use a hyperlink with a `jsbin-embed` class
 
-You can grab the hyperlink information from the jsbin share feature and use the the snapshot option.
+You can grab the hyperlink information from the JSbin share feature and use the snapshot option.
 
 ```
 <a class="jsbin-embed foo" href="http://jsbin.com/iwovaj/74/embed?js,output">
@@ -73,11 +73,11 @@ You can grab the hyperlink information from the jsbin share feature and use the 
 
 ## Hyperdev
 
-Hyperdev is a free online development platform that is light weight and enables collaborative environments online, so you can let your students watch you code as an instructor and they can invite you to their project and let you review code, simply by sharing links. One requirement is a github account, if you do not want the kids to create their own github account, you can use the provided at the workshop.
+Hyperdev is a free online development platform that is lightweight and enables collaborative environments online, so you can let your students watch you code as an instructor and they can invite you to their project and let you review code, simply by sharing links. One requirement is a Github account, if you do not want the kids to create their own Github account, you can use the one provided at the workshop.
 
 ** Ask a CodeCampAS Instructor
 
-### How do I discuss with the instructors about content?
+### How do I discuss content with the instructors?
 
 * [Issues](../issues)
 * [Slack](https://codecampas.slack.com)
