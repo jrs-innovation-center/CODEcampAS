@@ -16,11 +16,11 @@ You can also create a `.css` file and use the CSS file via a `<link>` element:
 </head>
 ```
 
-> Note: you do not need to close the `<link>` element with a slash `/` 
+> Note: you do not need to close the `<link>` element with a slash `/`
 
 You can do more than just change the background color. In the example below we are changing the font-size, font-family, etc.
 
-<a class="jsbin-embed" href="http://jsbin.com/nicaze/3/embed?css,output">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="https://jsbin.com/nicaze/3/embed?css,output">JS Bin on jsbin.com</a>
 
 ## Exercise
 

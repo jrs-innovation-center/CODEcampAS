@@ -8,9 +8,9 @@ The `img` tag is the command for the Image Element, in order to point to the ima
 <img src="http://example.com/moon.jpg" />
 ```
 
-Check out this example: 
+Check out this example:
 
-<a class="jsbin-embed" href="http://jsbin.com/dihife/2/embed?html,output">Image Element on jsbin.com</a>
+<a class="jsbin-embed" href="https://jsbin.com/dihife/2/embed?html,output">Image Element on jsbin.com</a>
 
 > Note: if you do not plan to add content in the `HTML Element`, you can represent just the element by starting with the less-than symbol `<`  and ending with the slash `/` and the greater-than symbol `>` like this `<element />`
 

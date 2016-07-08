@@ -9,6 +9,6 @@ You can also create grids. Using something like `Skeleton` or `Bootstrap` can sa
 - Skeleton: http://getskeleton.com/#grid
 - Bootstrap: https://getbootstrap.com/examples/grid/
 
-Example using [Skeleton](http://getskeleton.com/#grid) <a class="jsbin-embed"href="http://jsbin.com/tivozu/1/embed?output">JS Bin on jsbin.com</a>
+Example using [Skeleton](http://getskeleton.com/#grid) <a class="jsbin-embed"href="https://jsbin.com/tivozu/1/embed?output">JS Bin on jsbin.com</a>
 
 [Index](.) | [Prev](css-format) | [Next](ids-and-classes)
