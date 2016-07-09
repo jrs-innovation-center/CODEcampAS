@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "//prestart": "npm test",
     "start": "cck"
   },
   "keywords": [],
@@ -11,5 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "codecampkit": "^2.2.9"
-  }
+  },
+  "private": false
 }
