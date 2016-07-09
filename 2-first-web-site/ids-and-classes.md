@@ -45,7 +45,7 @@ style.css
 
 By putting a period in front of the class name in the css, I am able to instruct the browser to apply the defined style to any element that has `bgGreen` in its class attribute.
 
-<a class="jsbin-embed" href="https://jsbin.com/nicaze/3/embed?css,output">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="https://jsbin.com/helayo/1/embed?html,css,output">JS Bin on jsbin.com</a>
 
 To specifically style `id` elements, you use the `#` sign in your css to select those elements.
 
