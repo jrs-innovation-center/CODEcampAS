@@ -12,4 +12,9 @@ The magic eight ball was a toy that you could ask a yes or no questions and then
 
 [Demo](demo)
 
+## Exercises
+
+- [](1)
+- [](2)
+
 [Home](/) | [Prev](/3-maze-game) | [Next](/5-calculator)

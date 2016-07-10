@@ -1,44 +1,62 @@
-Magic Eight Ball
-================
+# Magic Eight Ball
 
-The magic eight ball can have 6 different answers, everytime the user clicks on the button we want to randomly pick a number 1 to 6 and use it to select the answer and show it to the user.
+This demo will walk us through building a magic eight ball button.
 
-Step 1 - Plan
--------------
+When a visitor clicks on the button, we want to pick a random number, then using that random number to find a phase from a list of phrases, then present it to the user using the `alert` functionality.
+
+So in order to put these pieces together, we need to learn how to build each piece.
+
+We need to create the web page and add a button:
+
+The button element uses the tag `button` and displays the text inside the tags as the description of the button.
+
+<a class="jsbin-embed" href="https://jsbin.com/lokazab/1/embed?html,output">JS Bin on jsbin.com</a>
+
+When the user clicks the button, lets provide a response using the alert function. The `alert` function is built into the browser, it presents a pop up window with whatever text we provide.
 
 ```
-As a User      
-I want to understand the game by seeing a title and description and button     
-So that I can play the game without having to be trained     
-
-title: Magic Eight Ball Simulator
-description: This is the magic eight ball game, ask a yes or no question for the
-future and click the ask the magic eight ball button.
-
-examples:
-
-* Will it rain tomorrow?
-* Will there be robots in the future?
-* Will I become a software developer
-
-[ask the eight ball]
+alert('Prediction will go here!')
 ```
 
-TODO List
+Check it out:
 
-- [ ] Setup Project
-- [ ] Build View
-- [ ] Handle button click to present answer
-- [ ] Create List of Answers
-- [ ] Create Random Function
-- [ ] Create Choose from list function
-- [ ] Test
+<a class="jsbin-embed" href="https://jsbin.com/lokazab/2/embed?html,js,output">JS Bin on jsbin.com</a>
 
-NOTES:
-------
+---
 
-- Remix project from https://hyperdev.com/#!/project/dawn-arrow
+Now that we have the page and know how we are going to provide the response, we need to create a `function` to generate a random number.
 
+To create a function, we can use `javascript`:
 
+```
+function random () {
+  return 1
+}
+```
 
-https://hyperdev.com/#!/project/hail-duck
+In this function we will always return 1.
+
+<a class="jsbin-embed" href="https://jsbin.com/lokazab/3/embed?html,js,output">JS Bin on jsbin.com</a>
+
+Lets hook the click of the button to the function. We can use an attribute on the button element called `onclick` then we can run the function from the button click:
+
+```
+<button onclick="alert(random())">Tell me the Future</button>
+```
+
+<a class="jsbin-embed" href="https://jsbin.com/lokazab/4/embed?html,js,output">JS Bin on jsbin.com</a>
+
+---
+
+Lets create a list of options:
+
+* It is certain.
+* It is decidedly so.
+* Without a doubt.
+* Yes, definitely.
+* You may rely on it.
+* As I see it, yes.
+* Most likely.
+* Outlook good.
+
+<a class="jsbin-embed" href="https://jsbin.com/lokazab/5/embed?html,js,output">JS Bin on jsbin.com</a>
