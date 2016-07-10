@@ -14,6 +14,8 @@ You can also navigate within your site as well:
 <a href="/page2.html">Page 2</a>
 ```
 
+[Learn about links](learn)
+
 In this project, we will build a simple maze game that you can add to your website, the maze game will take players through a maze of web pages and links.
 
 [Demo](demo)
@@ -21,9 +23,7 @@ In this project, we will build a simple maze game that you can add to your websi
 ## Exercises
 
 - [Gate](1)
-- [Blue Room](2)
-- [Link](3)
-- [Green Room](4)
+- [Rooms](2)
 
 > Continue to build out your maze creating more rooms, use animation and background colors and images to make the maze interactive
 
