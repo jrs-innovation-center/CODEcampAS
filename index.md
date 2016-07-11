@@ -2,7 +2,7 @@
 
 The CodeCamp Kids After School course work is designed to provide project based learning of how to program for middle school children.
 
-Learning to program, provides a platform for practicing creative thinking.
+Programming provides a platform for learning and practicing creative thinking. This creative thinking supports the materials being taught in other STEM classes.
 
 ## Learning Objectives
 
@@ -38,7 +38,7 @@ After a student has taken this course, the student should be:
 
 - [Hello World](/1-hello-world/)
 - [First Web Site](/2-first-web-site/)
-- [Maze Game](/3-maze-game/)
+- [Hyperlink Maze](/3-maze-game/)
 - [Magic Eight Ball](/4-magic-eight-ball/)
 - [Calculator](/5-calculator/)
 - [Journal](/6-journal/)
