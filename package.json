@@ -12,7 +12,7 @@
   "author": "Tom",
   "license": "ISC",
   "dependencies": {
-    "codecampkit": "^2.2.9"
+    "codecampkit": "^2.2.11"
   },
   "private": false
 }
