@@ -1,10 +1,10 @@
 # CSS
 
-Cascading Style Sheets give you the ability to format your content using colors, fonts, and animations.
+Cascading Style Sheets (CSS) give you the ability to format your content using colors, fonts, and animations.
 
-You can add CSS styling to your web page by using the `<style></style>` tag.
+You can add CSS styling to your web page by using the `style` tag.
 
-Check out this example:
+Checkout this example:
 
 <a class="jsbin-embed" href="http://jsbin.com/nicaze/1/embed?html,output">JS Bin on jsbin.com</a>
 

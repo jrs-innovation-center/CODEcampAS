@@ -1,6 +1,6 @@
-# ids and classes
+# Ids and Classes
 
-In every HTML Element you can add two attributes to help with element identification. The two attributes are `id` and `class`.  
+In every HTML Element there are two attributes that can help with element identification. The two attributes are `id` and `class`.
 
 ## id
 
@@ -29,25 +29,25 @@ Unlike `id`s the class attribute keywords can be shared with other elements on t
 
 ## Why?
 
-Using these identification elements enables you to refine style and functionality specifically to elements of these attributes. For example the `bgGreen` and `bgBlue`, I can style those elements using css.
+Using these identification elements enables you to refine style and functionality specifically to elements of these attributes. For example, I can change any elements containing the `bgGreen` and `bgBlue` classes using CSS.
 
 style.css
 
 ```
 .bgGreen {
-  background-color: green   
+  background-color: green
 }
 
 .bgBlue {
-  background-color: blue   
+  background-color: blue
 }
 ```
 
-By putting a period in front of the class name in the css, I am able to instruct the browser to apply the defined style to any element that has `bgGreen` in its class attribute.
+By putting a period in front of the class name in the CSS, I am able to instruct the browser to apply the defined style to any element that has `bgGreen` in its class attribute.
 
 <a class="jsbin-embed" href="https://jsbin.com/helayo/1/embed?html,css,output">JS Bin on jsbin.com</a>
 
-To specifically style `id` elements, you use the `#` sign in your css to select those elements.
+To specifically style a specific `id` element, you use the `#` sign in your CSS to select those elements.
 
 ```
 #main-content {
@@ -60,7 +60,7 @@ This would make the font-size in the `main-content` section 5 times larger than 
 
 Exercise:
 
-> Add the following css to your website in the style.css file
+> Add the following CSS to your website in the style.css file
 
 ```
 .box {
@@ -70,9 +70,9 @@ Exercise:
 }
 ```
 
-Then take your origin story and add the `box` class to your origin story's html element.
+Next take your origin story and add the `box` class to your origin story's html element.
 
-Then play around with other elements on your page, spice up the title using class or id attributes and css. Or control the size of your avatar.
+Finally, play around with other elements on your page, spice up the title using class or id attributes and CSS. You can also control the size of your avatar with CSS.
 
 
 [Index](/first-web-site) | [Prev](/first-web-site/layout) | [Next](/first-web-site/animation)
