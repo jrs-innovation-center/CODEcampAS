@@ -75,4 +75,4 @@ Next take your origin story and add the `box` class to your origin story's html 
 Finally, play around with other elements on your page, spice up the title using class or id attributes and CSS. You can also control the size of your avatar with CSS.
 
 
-[Index](/first-web-site) | [Prev](/first-web-site/layout) | [Next](/first-web-site/animation)
+[Index](.) | [Prev](layout) | [Next](animation)
