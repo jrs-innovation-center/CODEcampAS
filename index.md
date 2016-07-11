@@ -23,7 +23,7 @@ After a student has taken this course, the student should be:
 
 ## Projects
 
-* Create your First Web Page
+* Create your First Web Site
 * Create a hyperlink maze
 * Create your own Magic Eight Ball
 * Create your own calculator
