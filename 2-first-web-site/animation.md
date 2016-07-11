@@ -1,12 +1,15 @@
 # Animation
 
-Making things move is a big deal for web sites and there are several ways to accomplish animation on the web:
+Making things move is a big deal for web sites.
+
+There are several ways to accomplish animation on the web:
 
 * CSS Transitions
 * CSS Animations
 * JavaScript Animations
 
-We will cover css transitions and maybe a little on CSS Keyframes, then learn a simple library that provides an easy way to attach animations.
+We will cover CSS transitions and a little on CSS Keyframes.
+Then we will learn how to use a simple library that provides an easy way to attach animations.
 
 ## CSS Transitions
 
@@ -19,7 +22,7 @@ transition: width 2s, height 2s, background-color 2s, transform 2s;
 
 <a class="jsbin-embed" href="https://jsbin.com/giparor/1/embed?html,css,output">JS Bin on jsbin.com</a>
 
-For more on Transitions read:
+For more on transitions read:
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
 
@@ -29,7 +32,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_trans
 
 ## Animate CSS
 
-Animate css is a simple library that makes it easy to add animation to your site.
+Animate CSS is a simple library that makes it easy to add animation to your site.
 
 https://daneden.github.io/animate.css/
 
@@ -38,13 +41,14 @@ https://daneden.github.io/animate.css/
 </iframe>
 
 
-
-By adding this css to your web page you can use classes to attach animation.
+By adding this CSS to your web page you can use the classes in the animate library to quickly animate elements on your webpage.
 
 <a class="jsbin-embed" href="https://jsbin.com/xorosip/1/embed?html,output">JS Bin on jsbin.com</a>
 
 ## Exercise
 
-* Add animation to your webpage, make your origin story slide in, and make your super powers dance in, etc.
+Add animation to your webpage: make your origin story slide in and make your super powers dance in.
+Add any other animations you think would be fun.
 
-[Index](/first-web-site) | [Prev](/first-web-site/ids-and-classes)
+
+[Index](.) | [Prev](ids-and-classes)
