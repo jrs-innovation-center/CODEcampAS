@@ -10,14 +10,12 @@ In a calculator engine we want to create a module or library.
 
 [Demo](https://hyperdev.com/#!/project/ginger-thunder)
 
-## Steps
+## Exercises
 
-- [ ] Setup Page
-- [ ] Setup API
-- [ ] Create Core Functions
-- [ ] Create Calculate Method
-- [ ] Create Calculator Reduce Method
-- [ ] Build User Interface
-- [ ] Handle Click Events
+- [Setup Page](1)
+- [Setup API](2)
+- [Create Core Functions](3)
+- [Create Calculate Method](4)
+- [Handle Click Events](5) 
 
 [Home](/) | [Prev](/3-maze-game/) | [Next](/6-journal/)
