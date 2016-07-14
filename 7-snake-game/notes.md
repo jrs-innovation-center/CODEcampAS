@@ -18,7 +18,7 @@ var food = {}
 
 var direction = 'right'
 
-// TODO: Step 3 - declare score varable
+// TODO: Step 3 - declare score variable
 
 // set height and width
 canvas.setAttribute('height', h)

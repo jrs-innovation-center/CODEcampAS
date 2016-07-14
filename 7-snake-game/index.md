@@ -11,12 +11,12 @@ Snake is a game where the player maneuvers a line which grows in length, with th
 
 ## Steps
 
-- [Setup](/snake-game/setup)
-- [Board](/snake-game/board)
-- [Snake](/snake-game/snake)
-- [Keyboard](/snake-game/keyboard)
-- [Food](/snake-game/food)
-- [Score](/snake-game/score)
+- [Setup](1)
+- [State](2)
+- [Snake](3)
+- [Food](4)
+- [Controls](5)
+- [Score](6)
 
 
 ```
