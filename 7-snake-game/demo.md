@@ -20,6 +20,4 @@ NOTES:
 
 - Remix project from https://hyperdev.com/#!/project/dawn-arrow
 
-
-
-https://hyperdev.com/#!/project/hail-duck
+[Demo](https://hyperdev.com/#!/project/denim-scarer)
