@@ -2,17 +2,19 @@
 
 The magic eight ball was a toy that you could ask a yes or no questions and then shake it up and then an answer would float through a window and give you a response. We are going to create a program that does the same thing, you can ask a question, then click a button and a response will appear to tell the future.
 
-## Lessons
+Using this project we will introduce you to `javascript`, a programming language used to make web sites come alive!
 
-- [Functions](functions)
-- [Nested Functions](nested-functions)
-- [DOM](dom)
+## Lessons ##
 
-## App
+- [Functions in Javascript](functions)
+- [Using Nested Functions](nested-functions)
+- [The Document Object Model](dom)
+
+### App ###
 
 [Demo](demo)
 
-## Exercises
+### Exercises ###
 
 - [Build The Magic Button Form](1)
 - [Create the guess function](2)
