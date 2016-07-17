@@ -2,11 +2,13 @@
 
 Now that we have played around with some HTML elements lets start to create and publish your first web or HTML page.
 
-We are going to build a web page for a superhero character, the first thing we need is a name. By creating a name we will have a title for our page.
+We are going to build a web page for a superhero character.
+The first thing we need is a name.
+By creating a name we will have a title for our page.
 
 # Name Generator
 
-Can't think of a character name? Use this name generator to create a name:
+Can't think of a character name? Use this name generator to create a name (hint this is an example of JavaScript that we'll be talking about a lot later on):
 
 <div class="tonic">
 <pre>
@@ -31,7 +33,11 @@ codename.generate(filters, lists)
 
 Now that we have a name, we need to start our first web page:
 
-Lets create a web page project using this template
+We'll be using a tool/website named hyperdev (although you can use your own tools if you'd like).
+You will need to setup an account on the site for yourself and each of your students will need an account
+so they can save their work.
+
+Lets create a web page project using this template:
 
 <a href="https://hyperdev.com/#!/project/proud-myth" target="\_new">
   Hyperdev: proud-myth
