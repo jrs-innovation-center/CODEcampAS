@@ -1,4 +1,4 @@
-# Powers
+# Super Powers
 
 Your character needs super powers, use the `unordered list` and `list item` elements to create a list of super powers:
 
@@ -10,10 +10,10 @@ Or we could put things in an ordered list:
 
 ## Exercise
 
-Using the `ul` and `li` tags, create a list of super powers on your character's web page.
+Using the `ul` or `li` tags, create a list of super powers.
 
 <a class="jsbin-embed" href="https://jsbin.com/gukoja/1/embed?html,output">Super Powers on jsbin.com</a>
 
-Once you have created them here, copy them to your website on `http://hyperdev.com` or locally.
+Once you have created them here, copy them to your website.
 
 [Index](.) | [Prev](story) | [Next](avatar)

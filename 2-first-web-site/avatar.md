@@ -1,8 +1,11 @@
 # Avatar
 
-Using `HTML Image` element we can add an avatar to our web page.
+Using an `HTML Image` element we can add an avatar to our web page.
 
-The `img` tag is the command for the Image Element, in order to point to the image we use an `HTML Attribute` called `src`. An `HTML Attribute` is the process of decorating a `HTML Element` to give it specific information. For example, to give the Image Element the location or url of the image:
+The `img` tag is the command for the Image Element.
+In order to point to the image we use an HTML Attribute named `src`.
+HTML Attributes allow us to add additional information (decorate) an `HTML Element` adding more information to the element.
+For example, to give the Image Element the location or url of the image:
 
 ```
 <img src="http://example.com/moon.jpg" />
