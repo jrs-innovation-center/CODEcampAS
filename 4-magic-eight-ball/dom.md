@@ -1,8 +1,8 @@
-# DOM Document Object Model
+# Document Object Model (DOM)
 
-The dom is how we programmatically interact with a html page, we can write html using javascript or we can listen to events form html elements using javascript.
+The DOM is how we interact with a html page form javascript. We can create html using javascript or we can listen to events that occur on the web page.
 
-The DOM is an API, or application program interface, and has many objects and functions that we can use to do all the heavy lifting.
+The DOM is an application program interface or API. It contains many objects and functions that we can use to do all sorts of interesting things to our web pages.
 
 For example, if we want to add an html element to the web page, we can do the following:
 
@@ -24,9 +24,10 @@ p.addEventListener('click', function () {
 })
 ```
 
-## Demo
+## Demonstration
 
-In this demo we will show how to create an element and write it to the dom, then we will show how to listen to an event from a dom element and respond to it.
+In this demonstration we will show how to create an element and write it to the web page using the DOM. 
+Then we will show how to listen to an event on the web page usimg a DOM element and, finally, respond to it.
 
 ```
 var el = document.createElement('button')
@@ -47,4 +48,4 @@ el.addEventListener('click', function (e) {
 - [Exercise 2](/dom/2)
 - [Exercise 3](/dom/3)
 
-[Home](/) | [Prev](/nested-functions) | [Next](/magic-eight-ball)
+[Back](/4-magic-eight-ball) | [Prev](nested-functions)

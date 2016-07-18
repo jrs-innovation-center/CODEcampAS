@@ -1,12 +1,15 @@
 # Functions
 
-This is the first lesson on javascript a language that runs anywhere and is very easy to get started learning.
+This is the first lesson on javascript. Javascript is a programming language that runs on any computer and is very easy to learn.
 
 The most important building block in JavaScript is the function.
 
-A function is a command that instructs the computer to perform a computation.
+First, commands are instructions to the computer to do something; for example. perform a calculation or display some text.
 
-The function takes some input then does some processing and returns some output.
+A function is a set of commands that are wrapped together to make another, higher level, command. 
+Using the function as a command (or `calling` the function) in your javascript program instructs the computer to run all the commands packaged together in the function.
+
+A function takes one or more inputs, does some processing and returns some output.
 
 In this example, we are invoking or calling a function that is common in most javascript runtimes.  It is the `log` function, and it is attached to the console `object`
 
@@ -17,28 +20,29 @@ console.log('hello world')
 
 ---
 
-## Structure of a function
+## Structure of a function ##
 
-The basic structure of a function is that it takes some input in the form of arguments and does some processing then returns output.
+The basic structure of a function is that it takes some input in the form of arguments, does some processing then returns output.
 
 There are several ways to define a function, in this example we will be using the `function` keyword.
 
 ```
 function [name] ([arguments]) {
-
+[body]
 }
 ```
 
-The basic signature of a function is to provide a name after the function keyword, then parenthesis with your input, the input data is separated by commas, then you instructions or statements.
+The basic form of a function is the `function` keyword followed by your name for the function. After the name is the list of arguments separated by commas and enclosed in parenthesis.
 
-[Demo](/demo)
+The `body` of the function contains the commands to be executed when the function is run. The body following the arguments and is enclosed in curly brackets.
+
+[Here](/functions/demo) is a demonstration showning creation of a function.
 
 ## Exercises
 
-
 - [Exercise 1](/functions/1)
-- [Exercise 2](/functions/2)
+- [Exercise 2](/functions/e2)
 - [Exercise 3](/functions/3)
-- [Exercise 4](/functions/4)
+<!--- - [Exercise 4](/functions/4) --->
 
-[Home](/) | [Prev](/maze-game) | [Next](/nested-functions)
+[Back](.) | [Next](nested-functions)
