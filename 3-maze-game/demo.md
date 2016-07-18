@@ -10,16 +10,19 @@ In this demo, we will build a simple maze game with a gate and two levels of roo
       Winner  Loser    Loser
 ```
 
+Each room will have it's own web page:
+
 * gate.html
 * blue.html
 * green.html
 * winner.html
 * loser.html
 
-[example](https://hyperdev.com/#!/project/phantom-flier)
+[This](https://hyperdev.com/#!/project/phantom-flier) is an example of the maze.
 
 ---
 
-> Watch the instructor demonstrate how to build the maze.
+Now [watch the instructor](https://hyperdev.com/#!/project/proud-myth) demonstrate how to build the maze:
 
-[Remix](https://hyperdev.com/#!/project/proud-myth)
+[Back](.)
+

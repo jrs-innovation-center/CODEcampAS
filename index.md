@@ -38,7 +38,7 @@ After a student has taken this course, the student should be:
 
 - [Hello World](/1-hello-world/)
 - [First Web Site](/2-first-web-site/)
-- [Hyperlink Maze](/3-maze-game/)
+- [Maze Game](/3-maze-game/)
 - [Magic Eight Ball](/4-magic-eight-ball/)
 - [Calculator](/5-calculator/)
 - [Journal](/6-journal/)
