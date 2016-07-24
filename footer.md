@@ -1,1 +1,2 @@
-<center>2016 &copy; Charleston CodeCamp All Rights Reserved...</center>
+<center>Charleston Digital Corridor Foundation</center>
+<center>&copy; Copyright 2016</center>

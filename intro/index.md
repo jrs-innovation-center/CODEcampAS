@@ -1,17 +1,18 @@
-# Introduction
+## Web Technologies ##
 
-Getting started with this codecamp you will learn the following technologies:
 
-- html
-- css
-- javascript
+The web encompasses a huge number of technologies that are far behyond the scope of any one class. Our goal is to provide you with an understanding of three of the core technologies upon which much of the web is built:
 
-These are the building blocks of web technology and can be used to build applications in almost every platform of device.
+- html - The language of web pages
+- css - Making web pages more than just text on a screen
+- javascript - Making web pages come alive
 
-In order to get started learning you want to understand that this course takes some effort on your part, you need to pay attention and do the practice lessons.
+These are the building blocks of web technology and can be used to build applications on almost every platform and device.
 
-> What you put in to this course is what you will get out of it.
+In order to get started you need to understand that this course takes some effort on your part. You will need to pay attention and do the practice lessons.
 
-This is just the starting point, it takes years to become an expert of these languages and software development in general, but if you like creating and like this course, there will be more opportunities to go farther and learn more.
+> What you put in to this course is what you will get out of it!
+
+This is just the starting point. There's lots more to learn about these languages and software development in general. But, you don't have to spend years learning it all in order to be able to build useful and interesting web pages.
 
 [Home](/) | [Next](/1-hello-world/)
