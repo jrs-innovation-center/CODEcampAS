@@ -35,6 +35,6 @@ The course if organized into a set of projects; each building on it's predecesso
 - [Create a hyperlink maze](/3-maze-game/)
 - [Create your own magic eight ball](/4-magic-eight-ball/)
 - [Create your own calculator](/5-calculator/)
-- [Create your own live ournal](/6-journal/)
+- [Create your own live journal](/6-journal/)
 - [Create a snake game](/7-snake-game/)
 
