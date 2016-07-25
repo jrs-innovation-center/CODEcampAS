@@ -6,25 +6,16 @@ In this project we will create a very simple journal application, you will be ab
 
 ## Lessons
 
-- [JS - Data Structures - basic](/data-structures)
-- [JS - Databases](/databases)
-- [JS - map-reduce-filter](/map-reduce-filter)
+- [JS - Data Structures - basic](data-structures)
+- [JS - Databases](databases)
+- [JS - map-reduce-filter](map-reduce-filter)
 
 
 ## Steps
 
-- [Setup](/journal/setup)
-- [List](/journal/list)
-- [Create](/journal/create)
-- [Remove](/journal/remove)
-
-- [ ] Lists
-- [ ] Input form
-- [ ] Remove Button
-- [ ] Datastores
-- [ ] LocalStorage
-- [ ] Databases
-- [ ] Fetching Data
-- [ ] Posting Data
+- [Setup](setup)
+- [Create](create)
+- [List](list)
+- [Summary](summary)
 
 [Home](/) | [Prev](/5-calculator/) | [Next](/7-snake-game/)
