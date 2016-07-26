@@ -6,8 +6,8 @@ Snake is a game where the player maneuvers a line which grows in length, with th
 
 ## Lessons
 
-- [JS - Assignment](/assignment)
-- [JS - Loops](/loops)
+- [JS - Assignment](assignment)
+- [JS - Loops](loops)
 
 ## Steps
 
