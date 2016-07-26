@@ -1,7 +1,7 @@
 ## Web Technologies ##
 
 
-The web encompasses a huge number of technologies that are far behyond the scope of any one class. Our goal is to provide you with an understanding of three of the core technologies upon which much of the web is built:
+The web encompasses a huge number of technologies that are far beyond the scope of any one class. Our goal is to provide you with an understanding of three of the core technologies upon which much of the web is built:
 
 - html - The language of web pages
 - css - Making web pages more than just text on a screen
@@ -14,5 +14,10 @@ In order to get started you need to understand that this course takes some effor
 > What you put in to this course is what you will get out of it!
 
 This is just the starting point. There's lots more to learn about these languages and software development in general. But, you don't have to spend years learning it all in order to be able to build useful and interesting web pages.
+
+## Background Info
+
+* [Computer](computer)
+* [Internet](internet)
 
 [Home](/) | [Next](/1-hello-world/)
