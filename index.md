@@ -3,7 +3,7 @@ The CODECamp After School course work has been designed to provide project based
 
 Programming provides a platform for learning and practicing creative thinking. This creative thinking supports the materials being taught in other STEM classes.
 
-- [Introduction](/intro)
+- [Introduction](/intro/)
 
 ## Learning Objectives
 
@@ -18,7 +18,7 @@ After a student has taken this course, the student should:
 
 ## Requirements
 
-CODECamp After School doesn't require any special software or applications to be installed on either the teacher's or student's computers. 
+CODECamp After School doesn't require any special software or applications to be installed on either the teacher's or student's computers.
 
 We just require the following:
 
@@ -37,4 +37,3 @@ The course if organized into a set of projects; each building on it's predecesso
 - [Create your own calculator](/5-calculator/)
 - [Create your own live journal](/6-journal/)
 - [Create a snake game](/7-snake-game/)
-
