@@ -6,7 +6,7 @@ The most important building block in JavaScript is the function.
 
 First, commands are instructions to the computer to do something; for example. perform a calculation or display some text.
 
-A function is a set of commands that are wrapped together to make another, higher level, command. 
+A function is a set of commands that are wrapped together to make another, higher level, command.
 Using the function as a command (or `calling` the function) in your javascript program instructs the computer to run all the commands packaged together in the function.
 
 A function takes one or more inputs, does some processing and returns some output.
@@ -43,6 +43,5 @@ The `body` of the function contains the commands to be executed when the functio
 - [Exercise 1](/functions/1)
 - [Exercise 2](/functions/e2)
 - [Exercise 3](/functions/3)
-<!--- - [Exercise 4](/functions/4) --->
 
 [Back](.) | [Next](nested-functions)
