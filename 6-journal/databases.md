@@ -35,23 +35,30 @@ Object({ 'key': 'value' })
 For example, a class takes a test, a single record or object could be the name of the
 student and their test result.
 
-```
+<div class="tonic">
+<pre>
 Object({
   name: 'Tom',
   score: 85
 })
-```
+</pre>
+</div>
+
+For more information on objects:
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 
 If I have a collection or array of students with their test scores, it may look
 something like this:
 
-```
+<div class="tonic">
+<pre>
 Array({
   name: 'Tom',
   score: 85
 }, {
   name: 'Trip',
-  score: '95'
+  score: 95
 }, {
   name: 'Mary',
   score: 100
@@ -59,7 +66,12 @@ Array({
   name: 'Sue',
   score: 82
 })
-```
+</pre>
+</div>
 
 Databases will have common functions like `post` or `put` to store records and like
 `get` or `query` to retrieve records.
+
+
+
+[Index](.)
