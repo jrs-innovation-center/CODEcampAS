@@ -1,4 +1,19 @@
-# HTML Hello World
+# Create your first web page
+
+What is a web page?
+
+> A web page is a document that contains data that you want to share using a declarative 
+language called HTML, this language can be understood by any browser and create a consumable 
+presentation.
+
+## Terms 
+
+* web - world wide web or internet, this is the largest network of computers in the world and we use it to communicate daily.
+* document - is a collection of data, it may be text, audio, and video.
+* declarative - explains what something should do instead of how it should be done.
+* browser - is an application that can access web sites, pages and applications and can present them to a user.
+
+## What is HTML?
 
 Hypertext Markup Language is a declarative language that enables the sharing and connecting of documents and applications using the internet.
 
