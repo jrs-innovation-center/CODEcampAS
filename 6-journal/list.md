@@ -1,9 +1,8 @@
-# List Articles
+# List Journal Entries
 
 ## DB Changes Feed
 
-Using the database changes feed, we can get notified to when a new article is
-posted and then we can paint the article to the screen.
+Using the database changes feed (the `on` function discussed in the last section), we can get notified when a new article is posted so we can display (pain) the article on the screen.
 
 We can access the changes feed using the `db.changes` function.
 
@@ -19,6 +18,8 @@ function listItem (doc) {
 
 Now everytime a new article is added the listItem document will be called.
 
+---
+
 ## Update the screen with a new article
 
 We need to create a new section in our html document:
@@ -31,8 +32,8 @@ We need to create a new section in our html document:
 </section>
 ```
 
-Notice in this section we provided an `id` for the section called articles, we
-will use that id to reference the point we want to add articles as they are created.
+Notice in this section we provided an `id` for the section called articles. We
+will use that id to reference the point on the screen where we will add the new articles.
 
 In the `browser.js` file we need to create elements for an article and append them
 to the articles section.
@@ -98,7 +99,7 @@ const h3 = content => h('h3', content)
 const div = content => h('div', content)
 ```
 
-by creating these alias methods our view can event look nicer:
+By creating these alias methods we can simplify our code:
 
 ```
 article([
@@ -109,7 +110,7 @@ article([
 ])
 ```
 
-
+---
 
 Our `listItem` function will look like this:
 
@@ -128,10 +129,10 @@ function listItem (chg) {
 }
 ```
 
+---
+
 Now that we have a nice view, lets abstract out the append process into a simple
 append function.
-
-> append.js
 
 ```
 (function () {
@@ -146,10 +147,13 @@ append function.
 By creating a generic append function, we can reduce the listItem function into
 a clearly nested set of functions that are declarative.
 
-When an items is added, I want to list the item by appending the new article to
+Save the code in a file named `append.j`.
+
+---
+
+When an item is added, we want to list the item by appending the new article to
 the articles section. The article has a header and a h3 for the title as well as
 a div for the body.
-
 
 ```
 function listItem (chg) {
@@ -163,3 +167,7 @@ function listItem (chg) {
   )
 }
 ```
+
+---
+
+[Back](.) | [Prev](create) | [Next](summary)
