@@ -9,6 +9,8 @@ The key concepts we will be introducing in this project are:
 - Control the layout and format of a web page using CSS
 - Adding Javascript to a web page
 
+---
+
 ## Lessions
 
 - [Character Name](name)

@@ -4,13 +4,19 @@ The magic eight ball was a toy that you could ask a yes or no questions and then
 
 Using this project we will introduce you to `javascript`, a programming language used to make web sites come alive!
 
+---
+
 ### Lessons
 
 - [Functions in Javascript](functions)
 - [Using Nested Functions](nested-functions)
 - [The Document Object Model](dom)
 
-### [Demo](demo)
+---
+
+Click [here](demo) see a demonstration of a calculator.
+
+---
 
 ### Exercises ###
 

@@ -21,7 +21,7 @@ is fundamental to programming.
 
 ---
 
-[Here](https://hyperdev.com/#!/project/ginger-thunder) is a demonstration of a calculator.
+Click [here](https://hyperdev.com/#!/project/ginger-thunder) to see a demonstration of a calculator.
 
 ---
 
