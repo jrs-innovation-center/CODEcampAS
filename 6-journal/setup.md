@@ -1,6 +1,30 @@
-# Journal Application Setup
+# Setup for the Project
+
+The first thing we want to do is create a form that will take our new article
+and add it to a database.
+
+What is a database?
+
+- A database is a container that holds data, in our case articles that we want
+to retrieve later. Most databases have a way to create containers,
+put things into containers and get things out of containers.
+
+    - create
+    - put
+    - get
+
+We are going to store and retrieve articles or documents.
+
+This is called a document database. There are several types
+of databases, but for this project we only need to think about
+document storage databases.
+
+---
 
 ## Default HTML
+
+The following is a framework for the journal web page. We will be filling out the page as we build the journal application.
+
 
 ```
 <!doctype html>
@@ -43,24 +67,4 @@
 </html>
 ```
 
-
-## Getting started
-
-The first thing we want to do is create a form that will take our new article
-and add it to the database.
-
-> What is a database?
-
-A database is a container that holds data, in our case articles that we want
-to retrieve later. Most databases have a way to create containers,
-put things into containers and get things out of containers.
-
-- create
-- put
-- get
-
-We are going to store and retrieve articles or documents.
-
-This is called a document database. There are several types
-of databases, but for this project we only need to think about
-document storage databases.
+[Back](.)  | [Next](create)

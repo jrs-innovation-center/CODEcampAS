@@ -1,21 +1,36 @@
 # Online Journal
 
-In this project we will create a very simple journal application, you will be able to list all of your stories and add a new story and remove old stories. We will learn how to build dynamic lists of data from a data store, we will learn about data stores and how to add data into a data store, lastly remove data from a data store. Being able to store data is a very important part of programming.
+In this project we will create a very simple journal application.
 
-[Demo](https://hyperdev.com/#!/project/plain-carp)
+
+You will be able to create stories in the journal then list all the stories. You will also be able to remove or delete stories from the journal,
+
+The two new concepts that will be introduced are:
+
+- Data stores and how to add and remove data from a data store. Being able to store data for later use is a very important part of programming.
+- Building dynamic lists of data from a data store.
+
+---
 
 ## Lessons
 
-- [JS - Data Structures - basic](data-structures)
-- [JS - Databases](databases)
-- [JS - map-reduce-filter](map-reduce-filter)
+- [Basic Data Structures using Javascript](data-structures)
+- [Data Storage using Javascript](databases)
+- [Map, Reduce and Filtering in Javascript](map-reduce-filter)
 
+---
 
-## Steps
+Click [here](https://hyperdev.com/#!/project/plain-carp) for a demonstration of the journal.
 
-- [Setup](setup)
-- [Create](create)
-- [List](list)
-- [Summary](summary)
+---
+
+## Exercises ##
+
+- [Setup for the Project](setup)
+- [Create a Journal Entry](create)
+- [List Journal Entries](list)
+- [Project Summary](summary)
+
+---
 
 [Home](/) | [Prev](/5-calculator/) | [Next](/7-snake-game/)
