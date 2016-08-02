@@ -1,4 +1,4 @@
-# Summary
+# Project Summary
 
 Below is a full listing of all the code required to build this application, we have
 separated the modules using the `iffe` pattern, this pattern basically helps us
@@ -7,7 +7,7 @@ expose to the global space.
 
 Putting it all together:
 
-> index.html
+## The `index.html` file
 
 ```
 <!doctype html>
@@ -65,8 +65,10 @@ Putting it all together:
 </html>
 ```
 
+---
 
-> app.js
+## The `app.js` file
+
 
 ```
 
@@ -137,7 +139,7 @@ Putting it all together:
 }())
 ```
 
-> storageDB.js
+## The `storageDB.js` file
 
 ```
 (function (window) {
@@ -174,7 +176,7 @@ Putting it all together:
   function changes (options) {
     setTimeout(_ =>
       docs.map(doc => {
-        listeners.change.map(fn => fn({doc: doc}))  
+        listeners.change.map(fn => fn({doc: doc}))
       })
     , 0)
 
@@ -232,7 +234,11 @@ Putting it all together:
     put: put,
     post: post,
     remove: remove
-  }  
+  }
 }(window))
 
 ```
+
+---
+
+[Back](.) | [Prev](list)

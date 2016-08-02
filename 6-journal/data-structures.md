@@ -1,13 +1,12 @@
-# Data Structures
+# Basic Data Structures in Javascript
 
 What is data?
 
-Data is facts and statistics collected for reference and analysis. Data is often
-in the form of text, but can also be in other forms as well. For this discussion,
-we will reference data as the form of text. In order for our applications to make
-sense of the data we need to provide some structure or common concept that can
-be understood and shared between the functions in our program. These concepts
-are called `Data Structures` - one of the most basic concepts is the `string` which
+In the abstract, data is componsed of facts and statistics collected for reference and analysis.
+Data is often in the form of text, but can also be in other forms as well.
+For this discussion, we will reference data in the form of text.
+In order for our programs to make sense of data we need to provide some structure to the data that can be understood and shared between the functions in our program.
+These structures are called *Data Structures*. One of the most common data structures is the *string* which
 is a collection of characters or text that is enclosed by single quotes or double quotes.
 
 <div class="tonic">
@@ -19,9 +18,11 @@ console.log('A string of characters')
 In this example, we are printing a string of characters to the console. This type
 of data structure is called a string.
 
-A more interesting data structure is a collection, this data structure enables us
-to store specific items in a group or collection. In JavaScript, we call this
-Data Structure an array.
+---
+
+A more interesting data structure is a collection. This data structure enables us
+to store a group of data items in a group or collection. In JavaScript, we call this
+data structure an array.
 
 <div class="tonic">
 <pre>
@@ -34,6 +35,8 @@ Array(1,2,3,4,5) // array of numbers
 Array('array', 'of', 'characters')
 </pre>
 </div>
+
+---
 
 With collection data structures such as arrays we can perform actions on these
 structures.
@@ -50,6 +53,8 @@ Array('array', 'of', 'characters').join('-')
 </pre>
 </div>
 
+---
+
 ## Getting data in and out of arrays.
 
 To get a specific element of data out of an array you can reference the index
@@ -64,6 +69,8 @@ Array(1,2,3)[1] // will return 2
 
 In this example, we are getting the second index of the array.
 
+---
+
 To change a value in the array we can set the value to the array reference index.
 
 <div class="tonic">
@@ -73,6 +80,8 @@ numbers[1] = 4 // [1,4,3]
 numbers
 </pre>
 </div>
+
+---
 
 You can iterate through an array using a loop.
 
@@ -86,9 +95,11 @@ numbers
 </pre>
 </div>
 
-For more information on Arrays:
+> For more information on Arrays:
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+---
 
 ## Exercises
 
@@ -96,4 +107,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 * Create an array of numbers and add 2 to each item in the array.
 
 
-[Index](.)
+[Back](.)  | [Next](databases)

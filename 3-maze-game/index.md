@@ -1,6 +1,8 @@
 # Maze Game
 
-In this game we will learn one of the most powerful features of the internet. This is the ability to link documents together using a `hyperlink` - the ability to link pages and sites together is very easy.
+In this project, we will build a simple maze game that you can add to your website. The maze game will take players through a maze of web pages and links.
+
+This game will teach you one of the most powerful features of the internet. This is the ability to link documents together using a `hyperlink` - the ability to link pages and sites together is very easy.
 
 
 ```
@@ -19,11 +21,11 @@ Clicking anywhere on `Page 2` will navigate to a web page with a name of `page2.
 
 To learn more about links click [here](learn)
 
-## Project
+---
 
-In this project, we will build a simple maze game that you can add to your website, the maze game will take players through a maze of web pages and links.
+Click [here](demo) to see a demonstration of the maze.
 
-[Here](demo) is a demo of the maze.
+---
 
 ## Exercises
 
