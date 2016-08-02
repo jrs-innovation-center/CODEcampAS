@@ -1,7 +1,7 @@
 {
-  "name": "codecampkids",
+  "name": "kids.chscodecamp.com",
   "version": "1.0.0",
-  "description": "",
+  "description": "CODEcamp After School",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
   "author": "Tom",
   "license": "ISC",
   "dependencies": {
-    "codecampkit": "^2.3.5"
+    "codecampkit": "^2.3.7"
   },
   "private": false
 }

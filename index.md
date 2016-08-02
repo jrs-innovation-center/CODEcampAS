@@ -1,3 +1,4 @@
+# CODEcamp After School
 
 The CODECamp After School course work has been designed to provide project based learning of how to program for middle school children.
 

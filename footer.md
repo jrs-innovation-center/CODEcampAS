@@ -1,2 +1,4 @@
-<center>Charleston Digital Corridor Foundation</center>
-<center>&copy; Copyright 2016</center>
+<div class="copyright">
+	<h3>Copyright &copy; 2016 Charleston Digital Corridor</h3>
+	<img class="cdc_logo" src="cdc_logo.png" />
+</div>
