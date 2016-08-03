@@ -1,14 +1,14 @@
 # CODEcamp After School
 
-The CODECamp After School course work has been designed to provide project based learning of how to program for middle school children.
+The CODEcamp After School course work is designed to provide project-based learning for middle school students.
 
-Programming provides a platform for learning and practicing creative thinking. This creative thinking supports the materials being taught in other STEM classes.
+Learning to code provides a platform for learning and practicing creative thinking. This in turn supports the materials students are learning in other STEM classes,
 
 - [Introduction](/intro/)
 
 ## Learning Objectives
 
-After a student has taken this course, the student should:
+After a student has taken this course, they should:
 
 * be able to describe the internet and computer applications
 * be able to create a basic web page using HTML/CSS
