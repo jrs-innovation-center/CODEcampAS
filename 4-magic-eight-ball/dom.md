@@ -42,7 +42,7 @@ el.addEventListener('click', function (e) {
 })
 ```
 
-## Exercises
+## Exercises [TODO]
 
 - [Exercise 1](dom-1)
 - [Exercise 2](dom-2)
