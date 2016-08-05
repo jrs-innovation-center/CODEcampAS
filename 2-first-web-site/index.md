@@ -11,7 +11,7 @@ The key concepts we will be introducing in this project are:
 
 ---
 
-## Lessions
+## Lessons
 
 - [Character Name](name)
 - [Origin Story](story)
