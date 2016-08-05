@@ -8,12 +8,12 @@ add(1,
 )
 ```
 
-[Here](/nested-functions/demo) is a demonstation of nested functions.
+[Here](nfn-demo) is a demonstation of nested functions.
 
 ## Exercises
 
-- [Exercise 1](/nested-functions/1)
-- [Exercise 2](/nested-functions/2)
-- [Exercise 3](/nested-functions/3)
+- [Exercise 1](nfn-1)
+- [Exercise 2](nfn-2)
+- [Exercise 3](nfn-3)
 
 [Back](/4-magic-eight-ball) | [Prev](functions) | [Next](dom)

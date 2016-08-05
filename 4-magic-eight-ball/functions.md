@@ -36,12 +36,12 @@ The basic form of a function is the `function` keyword followed by your name for
 
 The `body` of the function contains the commands to be executed when the function is run. The body following the arguments and is enclosed in curly brackets.
 
-[Here](/functions/demo) is a demonstration showning creation of a function.
+[Here](fn-demo) is a demonstration showning creation of a function.
 
 ## Exercises
 
-- [Exercise 1](/functions/1)
-- [Exercise 2](/functions/e2)
-- [Exercise 3](/functions/3)
+- [Exercise 1](fn-1)
+- [Exercise 2](fn-2)
+- [Exercise 3](fn-3)
 
 [Back](.) | [Next](nested-functions)

@@ -26,7 +26,7 @@ p.addEventListener('click', function () {
 
 ## Demonstration
 
-In this demonstration we will show how to create an element and write it to the web page using the DOM. 
+In this demonstration we will show how to create an element and write it to the web page using the DOM.
 Then we will show how to listen to an event on the web page usimg a DOM element and, finally, respond to it.
 
 ```
@@ -44,8 +44,8 @@ el.addEventListener('click', function (e) {
 
 ## Exercises
 
-- [Exercise 1](/dom/1)
-- [Exercise 2](/dom/2)
-- [Exercise 3](/dom/3)
+- [Exercise 1](dom-1)
+- [Exercise 2](dom-2)
+- [Exercise 3](dom-3)
 
-[Back](/4-magic-eight-ball) | [Prev](nested-functions)
+[Back](.) | [Prev](nested-functions)
