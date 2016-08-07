@@ -21,4 +21,4 @@ equals(
 </pre>
 </div>
 
-[Back](functions) | [Next](e2)
+[Back](functions) | [Next](fn-1)
