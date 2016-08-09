@@ -9,12 +9,6 @@ Using this project we will introduce you to `javascript`, a programming language
 ### Lessons
 
 - [Functions in Javascript](functions)
-- [Using Nested Functions](nested-functions)
-- [The Document Object Model](dom)
-
----
-
-Click [here](demo) see a demonstration of a calculator.
 
 ---
 

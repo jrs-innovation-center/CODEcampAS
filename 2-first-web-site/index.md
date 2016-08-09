@@ -11,6 +11,12 @@ The key concepts we will be introducing in this project are:
 
 ---
 
+> For the teacher, this would be a good time to create an index page to hold links
+to everyones project. A index page template and instructions can be found here:
+[class-index](class-index)
+
+---
+
 ## Lessons
 
 - [Character Name](name)

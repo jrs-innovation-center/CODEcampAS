@@ -13,25 +13,17 @@ is fundamental to programming.
 
 ---
 
-## Lessons ##
+## Demo
 
-- [Conditionals](conditionals)
-- [Constants](constants)
-- [Comparisons](comparisons)
-
----
-
-Click [here](https://hyperdev.com/#!/project/ginger-thunder) to see a demonstration of a calculator.
+[Click to see a demonstration of a calculator.](http://calculator.code10k.com/)
 
 ---
 
 ## Exercises ##
 
-- [Setup the Webpage](1)
-- [Setup the Application Programming Interface(API)](2)
-- [Create the Core Library Functions](3)
-- [Create the Main Calculate Method](4)
-- [Handle Clicking on the Calculator Buttons](5)
+- [Build the Calculator Form](1)
+- [Connect the buttons to functions](2)
+- [Build our engine functions](3)
 
 ---
 

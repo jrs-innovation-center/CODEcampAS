@@ -19,11 +19,23 @@ You can also navigate within your site as well:
 
 Clicking anywhere on `Page 2` will navigate to a web page with a name of `page2.html` in the same directory as the current page.
 
+On page 2 your can create a link back to your home page, by simply adding a link element
+in the body section of page2.html.
+
+```
+<body>
+  <h1>Page2</h1>
+  <a href="/">Home</a>
+</body>
+```
+
 To learn more about links click [here](learn)
 
 ---
 
-Click [here](demo) to see a demonstration of the maze.
+## Demo
+
+[Click here to see a demonstration of the maze.](demo)
 
 ---
 
