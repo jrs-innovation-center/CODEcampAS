@@ -27,4 +27,4 @@ is fundamental to programming.
 
 ---
 
-[Home](/) | [Prev](/4-magic-eight-ball) | [Next](/6-journal/)
+[Home](/) | [Prev](/4-magic-eight-ball/) | [Next](/6-journal/)
