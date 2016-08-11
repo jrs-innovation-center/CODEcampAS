@@ -1,8 +1,8 @@
 # Magic Eight Ball
 
-The magic eight ball was a toy that you could ask a yes or no questions and then shake it up and then an answer would float through a window and give you a response. We are going to create a program that does the same thing, you can ask a question, then click a button and a response will appear to tell the future.
+The Magic Eight Ball is a toy that you can ask a yes or no question, shake it up and an answer would float through a window to give you a response. We are going to create a program that does the same thing. You can ask a question, click a button and a response will appear to tell the future.
 
-Using this project we will introduce you to `javascript`, a programming language used to make web sites come alive!
+Using this project, we will introduce you to `JavaScript`, a programming language used to make websites come alive!
 
 ---
 

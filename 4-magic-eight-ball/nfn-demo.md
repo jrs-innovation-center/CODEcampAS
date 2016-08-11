@@ -1,6 +1,6 @@
 # Demo Nested functions add / subtract combination
 
-By combining functions we can easily create combinations to perform nested actions and pass the results to other functions to bubble up into one final result.
+By combining functions, we can easily create combinations to perform nested actions and pass the results to other functions to bubble up into one final result.
 
 For example, using the functions we created in the previous chapter, we can perform some more complex calculations.
 
@@ -21,7 +21,7 @@ add(
 
 ---
 
-Lets create this function together:
+Let's create this function together:
 
 <div class="tonic">
 <pre>
