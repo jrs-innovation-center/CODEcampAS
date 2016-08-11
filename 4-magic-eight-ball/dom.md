@@ -1,6 +1,6 @@
 # Document Object Model (DOM)
 
-The DOM is how we interact with a html page form javascript. We can create html using javascript or we can listen to events that occur on the web page.
+The DOM is how we interact with HTML pages using javascript. We can dynamically create HTML using javascript or we can listen to events that occur on the web page.
 
 The DOM is an application program interface or API. It contains many objects and functions that we can use to do all sorts of interesting things to our web pages.
 

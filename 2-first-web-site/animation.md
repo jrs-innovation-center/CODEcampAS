@@ -8,7 +8,7 @@ There are several ways to accomplish animation on the web:
 * CSS Animations
 * JavaScript Animations
 
-We will cover CSS transitions and a little on CSS Keyframes.
+We will cover CSS transitions.
 Then we will learn how to use a simple library that provides an easy way to attach animations.
 
 ## CSS Transitions
