@@ -2,7 +2,7 @@
 
 Lets create an origin story for your character.
 
-Using [Mad Libs](https://jsbin.com/gademu/6/embed?output) on the web site *JS Bin* we can create a story for your character and attach the story to your web page as a paragraph.
+Using [Mad Libs](https://jsbin.com/gademu/6/embed?output) on the website *JS Bin*, we can create a story for your character and attach the story to your web page as a paragraph.
 
 <a class="jsbin-embed" href="https://jsbin.com/gademu/7/embed?output">Go there by clicking here</a>
 

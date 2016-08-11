@@ -19,17 +19,17 @@ After a student has taken this course, they should:
 
 ## Requirements
 
-CODECamp After School doesn't require any special software or applications to be installed on either the teacher's or student's computers.
+CODECamp After School doesn't require any special software or applications to be installed on either the instructor's or student's computers.
 
 We just require the following:
 
-* A computer (preferably a laptop)
-* with an Internet Connection
+* A computer (preferably a laptop),
+* with an internet connection,
 * and a Web Browser (Chrome, FireFox, Safari, Internet Explorer).
 
 ## Lessons/Projects
 
-The course if organized into a set of projects; each building on it's predecessors:
+The course is organized into a set of projects; each building on it's predecessors:
 
 - [Create your first web page](/1-hello-world/)
 - [Create your first web site](/2-first-web-site/)

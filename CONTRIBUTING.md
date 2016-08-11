@@ -27,7 +27,7 @@ Pattern
 
 The pattern is a very simple strategy:
 
-* Introduce Concept
-* Demonstrate Concept to Students
+* Introduce concept
+* Demonstrate concept to students
 * Have students practice concept using exercises
-* Walk through the exercises with students
+* Walk through exercises with students

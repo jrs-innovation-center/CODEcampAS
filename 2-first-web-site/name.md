@@ -1,14 +1,14 @@
 # Character Name
 
-Now that we have played around with some HTML elements lets start to create and publish your first web or HTML page.
+Now that we have played around with some HTML elements, let's start to create and publish your first web or HTML page.
 
 We are going to build a web page for a superhero character.
 The first thing we need is a name.
-By creating a name we will have a title for our page.
+By creating a name, we will have a title for our page.
 
 # Name Generator
 
-Can't think of a character name? Use this name generator to create a name (hint this is an example of JavaScript that we'll be talking about a lot later on):
+Can't think of a character name? Use this name generator to create a name (hint: this is an example of JavaScript that we'll be talking about a lot later on):
 
 <div class="tonic">
 <pre>
@@ -52,17 +52,16 @@ then a password you won't forget, and click sign up.
 
 ## Create your project
 
-In the code10k editor you should see a brief case icon in the top right, you should
-click on it, and enter your username as the project name, based on the example above,
-you would enter `happy-orange-63`, be sure to choose a unique name.
+In the code10k editor you should see a briefcase icon in the top right. Click on it and enter your username as the project name. Based on the example above,
+you would enter `happy-orange-63`. Be sure to choose a unique name.
 
 > It will be important to take note of the name of the web page so the instructor can create a table of contents
 
-When you create your new project, you will see an index document in the viewer,
-click on the document and it should open up in an editor.
+When you create your new project, you will see an index document in the viewer.
+Click on the document and it should open up in an editor.
 
-In the index html page between the `<body>` and `</body>` tags add your characters
-name using a heading1 or `h1` tag. Like below:
+In the index html page between the `<body>` and `</body>` tags add your character's
+name using a heading1 or `h1` tag as shown below:
 
 ```
 <!doctype html>
