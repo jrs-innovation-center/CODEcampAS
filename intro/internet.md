@@ -15,20 +15,20 @@ of what the internet is and how it works will help create software applications.
 
 ### TCP/IP
 
-TCP stands for Transmission Control Protocol. It is a low level networking protocol
+TCP stands for Transmission Control Protocol. It is a low-level networking protocol
 that sends data from endpoint to endpoint or computer to computer in packets. These
 packets are small chunks of data that are assembled together when they arrive at
 the destination endpoint or computer.
 
-IP stands for Internet Protocol. It is the low level set of rules that manage sending
-data through the internet and works along side TCP to provide a robust low level
+IP stands for Internet Protocol. It is the low-level set of rules that manage sending
+data through the internet and works alongside TCP to provide a robust low-level
 set of rules.
 
 ### HTTP
 
 HTTP is the common protocol for the web. It is a set of rules that run on top of
 TCP/IP and it enforces a very specific format of data to share between the endpoints
-or computers. The initials stand for the name HyperText Transfer Protocol, it is
+or computers. The initials stand for the name HyperText Transfer Protocol. It is
 designed to transfer collaborative content and is the foundation of the Internet or
 World Wide Web. You can read more about http here:
 
