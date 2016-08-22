@@ -1,6 +1,6 @@
 # Exercise 1 - Nested Functions
 
-Lets work through this equation:
+Let's work through this equation:
 
 ```
 10 + 20 + 30 - 50 + 32 = 42
@@ -17,7 +17,7 @@ const { ok, equals } = require('notebook')('twilson63/tpp/1.0.1')
 
 equals(
   ___,
-  42  
+  42
 )
 
 </pre>

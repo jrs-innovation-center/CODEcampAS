@@ -1,6 +1,6 @@
 # Animation
 
-Making things move is a big deal for web sites.
+Making things move is a big deal for websites.
 
 There are several ways to accomplish animation on the web:
 
@@ -8,7 +8,7 @@ There are several ways to accomplish animation on the web:
 * CSS Animations
 * JavaScript Animations
 
-We will cover CSS transitions and a little on CSS Keyframes.
+We will cover CSS transitions.
 Then we will learn how to use a simple library that provides an easy way to attach animations.
 
 ## CSS Transitions
@@ -41,13 +41,13 @@ https://daneden.github.io/animate.css/
 </iframe>
 
 
-By adding this CSS to your web page you can use the classes in the animate library to quickly animate elements on your webpage.
+By adding this CSS to your web page, you can use the classes in the animate library to quickly animate elements on your web page.
 
 <a class="jsbin-embed" href="https://jsbin.com/xorosip/1/embed?html,output">JS Bin on jsbin.com</a>
 
 ## Exercise
 
-Add animation to your webpage: make your origin story slide in and make your super powers dance in.
+Add animation to your web page: make your origin story slide in and make your super powers dance in.
 Add any other animations you think would be fun.
 
 

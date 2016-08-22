@@ -27,9 +27,7 @@ then run
 npm start
 ```
 
-You should have the website running locally, now you can deploy to the cloud using a free service called `surge.sh`
-
-to deploy to cloud
+You should have the website running locally. Now you can deploy to the cloud using a free service called `surge.sh`,
 
 ```
 npm install surge -g

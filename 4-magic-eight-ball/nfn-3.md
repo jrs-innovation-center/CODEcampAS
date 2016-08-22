@@ -1,6 +1,6 @@
 # Exercise 3 - Nested Functions
 
-Lets work through this equation:
+Let's work through this equation:
 
 ```
 10 + 20 * 30 / 50 * 32 = ??

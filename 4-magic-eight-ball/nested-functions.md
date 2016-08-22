@@ -1,6 +1,6 @@
 # Nested Functions
 
-In JavaScript you can combine functions together to make more complex functions, this is called composition.
+In JavaScript you can combine functions together to make more complex functions- this is called composition.
 
 ```
 add(1,

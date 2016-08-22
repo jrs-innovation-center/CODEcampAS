@@ -1,6 +1,6 @@
 # Exercise 1 - Subtract Function #
 
-In this exercise create a function that takes two arguments and multiplies one argument from the other and return a result.
+In this exercise, create a function that takes two arguments and multiplies one argument from the other, returning a result.
 
 <div class="tonic">
 <pre>

@@ -1,10 +1,10 @@
 # Ids and Classes
 
-In every HTML Element there are two attributes that can help with element identification. The two attributes are `id` and `class`.
+In every HTML Element, there are two attributes that can help with element identification. The two attributes are `id` and `class`.
 
 ## id
 
-The id attribute allows you to provide a unique identifier for the html element, this identifier can only appear once per html page.
+The id attribute allows you to provide a unique identifier for the HTML element. This identifier can only appear once per HTML page.
 
 ```
 <section id="main-content">
@@ -15,7 +15,7 @@ The id attribute allows you to provide a unique identifier for the html element,
 
 ## class
 
-You can create a space separated list of classes using the `class` attribute and these can be repeated.
+You can create a space-separated list of classes using the `class` attribute and these can be repeated.
 
 ```
 <section class="bgGreen animated fadeIn">
@@ -25,11 +25,11 @@ You can create a space separated list of classes using the `class` attribute and
 
 ```
 
-Unlike `id`s the class attribute keywords can be shared with other elements on the page.
+Unlike `id`s, the class attribute keywords can be shared with other elements on the page.
 
 ## Why?
 
-Using these identification elements enables you to refine style and functionality specifically to elements of these attributes. For example, I can change any elements containing the `bgGreen` and `bgBlue` classes using CSS.
+Using these identification elements enables you to refine style and functionality, specifically to elements of these attributes. For example, I can change any elements containing the `bgGreen` and `bgBlue` classes using CSS.
 
 style.css
 
@@ -47,7 +47,7 @@ By putting a period in front of the class name in the CSS, I am able to instruct
 
 <a class="jsbin-embed" href="https://jsbin.com/helayo/1/embed?html,css,output">JS Bin on jsbin.com</a>
 
-To specifically style a specific `id` element, you use the `#` sign in your CSS to select those elements.
+To style a specific `id` element, you use the `#` sign in your CSS to select those elements.
 
 ```
 #main-content {
@@ -70,9 +70,9 @@ Exercise:
 }
 ```
 
-Next take your origin story and add the `box` class to your origin story's html element.
+Next, take your origin story and add the `box` class to your origin story's HTML element.
 
-Finally, play around with other elements on your page, spice up the title using class or id attributes and CSS. You can also control the size of your avatar with CSS.
+Finally, play around with other elements on your page- spice up the title using class or id attributes and CSS. You can also control the size of your avatar with CSS.
 
 
 [Index](.) | [Prev](layout) | [Next](animation)

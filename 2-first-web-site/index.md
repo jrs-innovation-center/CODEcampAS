@@ -7,7 +7,7 @@ The key concepts we will be introducing in this project are:
 - Creating and editing web pages
 - Adding images to web pages
 - Control the layout and format of a web page using CSS
-- Adding Javascript to a web page
+- Adding JavaScript to a web page
 
 ---
 
