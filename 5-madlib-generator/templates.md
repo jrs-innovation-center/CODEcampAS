@@ -12,3 +12,21 @@ multi-line strings and template literal`
 ```
 
 In this lesson, we will learn about the `backtick string` or `template literals`.
+
+The template literal string is created with characters enclosed with a '`'.
+
+<div class="tonic">
+<pre>
+var template = `I am a template string`
+template
+</pre>
+</div>
+
+
+The nice thing about template strings is that you can add placeholders for data
+that they inject.
+
+<div class="tonic">
+var data = "foo"
+var template = `I can inject ${data} using the dollar sign and braces`
+</div>

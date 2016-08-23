@@ -12,6 +12,8 @@ Before we start the project we need to learn about some new features:
 
 - [HTML Forms](forms)
 - [Template Literals](templates)
+- [InnerHTML](inner-html)
+- [getElementById](get-element-by-id)
 
 ---
 

@@ -21,19 +21,10 @@ Check out this example:
 
 In this exercise, we want to create an avatar. We can use one of the following sites:
 
-- [Superhero](http://superherotar.framiq.com/)
-- [Manga Avatar](http://mangatar.framiq.com/)
-- [Zombie Avatar](http://zombietar.framiq.com/)
-- [Vampire Avatar](http://vampiretar.framiq.com/)
-- [Pirate Avatar](http://piratetar.framiq.com/)
-- [Navitar](http://navitar.framiq.com/)
-- [Star Trek](http://trekkietar.framiq.com/)
-- [cthulhutar](http://cthulhutar.framiq.com/)
-
-Once you build your avatar, you want to download it by clicking on the `Save and Share` button. Then upload it to your web page in the assets folder.
+- [SigFig Creator](http://sigfigcreator.thelegomovie.com/)
 
 Here is an example:
 
-![Trekkie Tar](trekkietar_20160705_192748.png)
+![Orange Head](http://s3.amazonaws.com/lego_sigfig/1471911936_X95xddMPu6.png)
 
 [Index](.) | [Prev](powers) | [Next](css-format)
