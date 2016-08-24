@@ -1,7 +1,7 @@
 # Mad Lib Generator
 
-In this project we are going to build our personal mad lib application. Like in
-project 2, we will build a form of inputs that will generate a story based on
+In this project we are going to build our personal mad lib generator. Like in
+the character project, we will build a form of inputs that will generate a story based on
 the inputs that are filled out.
 
 Before we start the project we need to learn about some new features:
@@ -10,8 +10,9 @@ Before we start the project we need to learn about some new features:
 
 ## Lessons
 
-- [InnerHTML](inner-html)
+- [document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
 - [getElementById](get-element-by-id)
+- [InnerHTML](inner-html)
 - [HTML Forms](forms)
 - [Template Literals](templates)
 

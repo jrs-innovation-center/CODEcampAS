@@ -31,10 +31,10 @@ We just require the following:
 
 The course is organized into a set of projects; each building on it's predecessors:
 
-- [Create a web page](/1-hello-world/)
-- [Create a super hero site](/2-first-web-site/)
-- [Create a hyperlink maze](/3-maze-game/)
-- [Create your own magic eight ball](/4-magic-eight-ball/)
-- [Create your own calculator](/5-calculator/)
-- [Create your own live journal](/6-journal/)
-- [Create a snake game](/7-snake-game/)
+- [Hello World](/1-hello-world/)
+- [SuperHero Site](/2-first-web-site/)
+- [Maze](/3-maze-game/)
+- [Magic Eight Ball](/4-magic-eight-ball/)
+- [Madlibs Generator](/5-madlib-generator/)
+- [Shapes](/6-shape/)
+- [Snake](/7-snake-game/)

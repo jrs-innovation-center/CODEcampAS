@@ -30,3 +30,6 @@ that they inject.
 var data = "foo"
 var template = `I can inject ${data} using the dollar sign and braces`
 </div>
+
+
+[Index](.)
