@@ -19,7 +19,6 @@ handler.
 
 We will be using the `onsubmit` handler.
 
-<a class="jsbin-embed" href="https://jsbin.com/nepeges/1/embed?js,output">JS Bin on jsbin.com</a>
-
+<a class="jsbin-embed" href="https://jsbin.com/nepeges/3/embed?js,output">Form Exercise</a>
 
 [Back](.)
