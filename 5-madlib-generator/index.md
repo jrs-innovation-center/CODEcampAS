@@ -10,10 +10,10 @@ Before we start the project we need to learn about some new features:
 
 ## Lessons
 
-- [HTML Forms](forms)
-- [Template Literals](templates)
 - [InnerHTML](inner-html)
 - [getElementById](get-element-by-id)
+- [HTML Forms](forms)
+- [Template Literals](templates)
 
 ---
 
@@ -23,8 +23,10 @@ Before we start the project we need to learn about some new features:
 
 ---
 
-## Exercises
+## Project
 
-- [Build the form](1)
-- [Handle Submit](2)
-- [Create Story Template](3)
+> Using the jsbin editor https://jsbin.com/?html,js,output create a new project.
+
+- [Create Story](1)
+- [Build the form](2)
+- [Generate MadLib](3)
