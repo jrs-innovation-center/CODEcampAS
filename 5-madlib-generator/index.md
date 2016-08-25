@@ -1,6 +1,6 @@
 # Mad Lib Generator
 
-In this project we are going to build our personal mad lib generator. Like in
+In this project we are going to build our personal madlib generator. Like in
 the character project, we will build a form of inputs that will generate a story based on
 the inputs that are filled out.
 
