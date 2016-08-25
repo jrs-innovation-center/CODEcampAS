@@ -12,8 +12,8 @@ In this exercise, create a function that takes two arguments and divides one arg
 const { ok, equals } = require('notebook')('twilson63/tpp/1.0.1')
 
 equals(
-  divide(2,1),
-  1
+  divide(4,2),
+  2
 )
 
 </pre>
