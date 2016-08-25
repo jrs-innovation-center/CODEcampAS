@@ -31,3 +31,6 @@ Before we start the project we need to learn about some new features:
 - [Create Story](1)
 - [Build the form](2)
 - [Generate MadLib](3)
+
+[Home](/) 
+
