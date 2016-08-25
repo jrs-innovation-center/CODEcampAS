@@ -36,5 +36,23 @@ The course is organized into a set of projects; each building on it's predecesso
 - [Maze](/3-maze-game/)
 - [Magic Eight Ball](/4-magic-eight-ball/)
 - [Madlibs Generator](/5-madlib-generator/)
-- [Shapes](/6-shape/)
+- [Shapes](/6-shapes/)
 - [Snake](/7-snake-game/)
+
+## HTML Cheatsheet
+
+http://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+
+## CSS Cheatsheet
+
+https://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf
+
+## JavaScript Cheatsheet
+
+http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf
+
+## Reference Materials
+
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+[Eloquent JavaScript](http://eloquentjavascript.net/)
+[EcmaScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
