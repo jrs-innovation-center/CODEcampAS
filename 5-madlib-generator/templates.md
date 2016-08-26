@@ -1,4 +1,4 @@
-# JavaScript Template Literals
+# Using Template Literals
 
 In JavaScript there are four ways to define a string:
 
@@ -22,15 +22,15 @@ template
 </pre>
 </div>
 
-
-The nice thing about template strings is that you can add placeholders for data
-that they inject.
+The nifty thing about template strings is that you can add placeholders for data
+that will be filled in later.
 
 <div class="tonic">
 var data = "foo"
 var template = `I can inject ${data} using the dollar sign and braces`
 </div>
 
+> Detailed documentation on this function is available at: <br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 
-[Index](.)
+[Back](.) | [Prev](forms)
