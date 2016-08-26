@@ -38,29 +38,29 @@ code to the internet.
 
 ## Code10k
 
-Before we get started, you need a editor to code your web page:
+Before we get started, you need a editor to code your web page. We'll be using the code10k web site for this class:
 
 <a href="http://www.code10k.com" target="\_blank">www.code10k.com</a>
 
-Click on this link above and then choose to signup, you will use your character
-name and the `@` and your groups name like `codekids23.school` or something. Here
+Click on this link above and then choose to signup. You will use your character
+name, the `@` and your group name (something like `codekids.myschoolname`). Here
 is an example:
 
-`happy-orange-63@codekids23.school`
+`happy-orange-63@codekids.harvard`
 
-then a password you won't forget, and click sign up.
+Finally enter a password you'll remember and click `sign up`.
 
 ## Create your project
 
-In the code10k editor you should see a briefcase icon in the top right. Click on it and enter your username as the project name. Based on the example above,
-you would enter `happy-orange-63`. Be sure to choose a unique name.
+In the code10k editor you should see a briefcase icon (top right of the page). Click on it and enter your username as the project name. Based on the example above,
+you would enter `happy-orange-63`. Be use to use a name you haven't used before.
 
 > It will be important to take note of the name of the web page so the instructor can create a table of contents
 
 When you create your new project, you will see an index document in the viewer.
 Click on the document and it should open up in an editor.
 
-In the index html page between the `<body>` and `</body>` tags add your character's
+On the index html page between the `<body>` and `</body>` tags, add your character's
 name using a heading1 or `h1` tag as shown below:
 
 ```
@@ -77,12 +77,11 @@ name using a heading1 or `h1` tag as shown below:
 </html>
 ```
 
-Then click the cloud button with an up arrow in the right corner.
+Then click the `cloud` button (a cloud with an up arrow in the upper right corner of the page).
 
 > If you want to see your page online simply click the up arrow box next to the
-web address and it will launch the new site in another tab.
+web address and it will show the web page in another tab.
 
-# Congrats! You have created your first web site, click the next link to keep going!
-
+# Congratulations! You have created your first web site, click the next link to keep going!
 
 [Index](.) | [Next](story)

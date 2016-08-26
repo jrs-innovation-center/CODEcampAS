@@ -2,7 +2,7 @@
 
 Using an `HTML Image` element, we can add an avatar to our web page.
 
-The `img` tag is the command for the Image Element.
+The `img` tag is the command to add images to our page..
 In order to point to the image, we use an HTML Attribute named `src`.
 HTML Attributes allow us to add additional information (decoration) to an `HTML Element`.
 For example, to give the Image Element the location or url of the image:
@@ -17,9 +17,11 @@ Check out this example:
 
 > Note: if you do not plan to add content in the `HTML Element`, you can represent just the element by starting with the less-than symbol `<`  and ending with the slash `/` and the greater-than symbol `>`, like this `<element />`.
 
+---
+
 ## Exercise
 
-In this exercise, we want to create an avatar. We can use one of the following sites:
+In this exercise, we will create an avatar. We can use the following site:
 
 - [SigFig Creator](http://sigfigcreator.thelegomovie.com/)
 
