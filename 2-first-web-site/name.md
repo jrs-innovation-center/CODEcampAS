@@ -82,6 +82,6 @@ Then click the `cloud` button (a cloud with an up arrow in the upper right corne
 > If you want to see your page online simply click the up arrow box next to the
 web address and it will show the web page in another tab.
 
-# Congratulations! You have created your first web site, click the next link to keep going!
+# Congratulations! You have created your first web site. Click the `next` link below to keep going!
 
 [Index](.) | [Next](story)
