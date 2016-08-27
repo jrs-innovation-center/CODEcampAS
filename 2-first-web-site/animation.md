@@ -45,6 +45,8 @@ By adding this CSS to your web page, you can use the classes in the animate libr
 
 <a class="jsbin-embed" href="https://jsbin.com/xorosip/1/embed?html,output">JS Bin on jsbin.com</a>
 
+---
+
 ## Exercise
 
 Add animation to your web page: make your origin story slide in and make your super powers dance in.

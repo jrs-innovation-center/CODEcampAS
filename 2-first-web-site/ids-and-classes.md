@@ -58,9 +58,11 @@ To style a specific `id` element, you use the `#` sign in your CSS to select tho
 
 This would make the font-size in the `main-content` section 5 times larger than normal and the `background-color` gray.
 
-Exercise:
+---
 
-> Add the following CSS to your website in the style.css file
+## Exercise
+
+First, add the following CSS to your website in the style.css file
 
 ```
 .box {
@@ -72,7 +74,7 @@ Exercise:
 
 Next, take your origin story and add the `box` class to your origin story's HTML element.
 
-Finally, play around with other elements on your page- spice up the title using class or id attributes and CSS. You can also control the size of your avatar with CSS.
+Finally, play around with other elements on your page; spice up the title using class or id attributes and CSS. You can also control the size of your avatar with CSS.
 
 
 [Index](.) | [Prev](layout) | [Next](animation)

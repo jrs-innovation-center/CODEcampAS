@@ -1,6 +1,6 @@
 # CSS
 
-Cascading Style Sheets (CSS) gives you the ability to format your content using colors, fonts, and animations.
+Cascading Style Sheets (CSS) give you the ability to format your content using colors, fonts, and animations.
 
 You can add CSS styling to your web page by using the `style` tag.
 
@@ -21,6 +21,8 @@ You can also create a `.css` file and use the CSS file via a `<link>` element:
 You can do more than just change the background color. In the example below, we are changing the font-size, font-family, etc.
 
 <a class="jsbin-embed" href="https://jsbin.com/nicaze/3/embed?css,output">JS Bin on jsbin.com</a>
+
+---
 
 ## Exercise
 
