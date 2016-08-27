@@ -1,36 +1,32 @@
-# Mad Lib Generator
+# Madlib Generator
 
-In this project we are going to build our personal madlib generator. Like in
-the character project, we will build a form of inputs that will generate a story based on
-the inputs that are filled out.
+In this project we are going to build our personal madlib generator. As in
+the character project, we will build a form of inputs. These inputs will then be used to generate a story.
 
-Before we start the project we need to learn about some new features:
-
----
-
-## Lessons
-
-- [document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-- [getElementById](get-element-by-id)
-- [InnerHTML](inner-html)
-- [HTML Forms](forms)
-- [Template Literals](templates)
+Before we start the project,we need to learn about some new features:
 
 ---
 
-## Demo
+# Lessons #
 
-[madlibs](https://output.jsbin.com/gademu/7)
+- [The document interface](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+- [Finding elements on a web page](get-element-by-id)
+- [Add HTML to a page](inner-html)
+- [Creating HTML forms](forms)
+- [Using template literals](templates)
+
+---
+
+Click [here](https://output.jsbin.com/gademu/7) to see a demonstration of the madlib generator.
 
 ---
 
 ## Project
 
-> Using the jsbin editor https://jsbin.com/?html,js,output create a new project.
+> Using the jsbin editor `https://jsbin.com/?html,js,output`,  create a new project.
 
-- [Create Story](1)
+- [Create a story](1)
 - [Build the form](2)
-- [Generate MadLib](3)
+- [Generate the madLib](3)
 
-[Home](/) 
-
+[Home](/) | [Prev](/4-magic-eight-ball) | [Next](/6-journal)
