@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Shapes</title>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/two.js/0.6.0/two.js"></script>
+<script src="index.js"></script>
+
+</head>
+
+<body>
+	<h1>Let's draw some shapes</h1>
+	
+	<button onclick="(function () { two.playing = false; })()">Stop Motion</button>
+	<button onclick="(function () { two.playing = true; })()">Start Motion</button>
+	
+	<button onclick="ClearShapes()">Clear All Shapes</button>
+	<br>
+	<br>
+	
+	<div id="theShapes"></div>
+	
+	<form id="theForm" onsubmit="return AddShape(event)">
+		<p>What sort of shape should we make?
+			<select id="shape" onchange="SelectShape(this)">
+				<option selected disabled>Choose your shape</option>
+				<option value="circle">Circle</option>
+				<option value="square">Square</option>
+				<option value="rectangle">Rectangle</option>
+			</select>
+		</p>
+	
+		<div id="circleParms" hidden>
+			Radius of the circle: 
+			<input type="text" name="radius">
+		</div>
+		
+		<div id="squareParms" hidden>
+			Length of a side of the square (10-50):
+			<input type="text" name="sqSideLen">
+		</div>
+		
+		<div id="rectangleParms" hidden>
+			Width of a side of the rectangle (10-50):
+			<input type="text" name="rectWidth"><br>
+			Height of a side of the rectangle (10-50):
+			<input type="text" name="rectHeight">
+		</div>
+		
+		<p id='colorSelector'>Color of the shape: 
+			<select id="color">
+				<option value="red">Red</option>
+				<option value="green">Green</option>
+				<option value="blue">Blue</option>
+				<option value="black">Black</option>
+				<option value="orange">Orange</option>
+			</select>
+		</p>
+
+		<p id='directionSelector'>Which way to move the shape: 
+			<select id="direction">
+				<option selected disabled></option>
+				<option value="u">Up</option>
+				<option value="d">Down</option>
+				<option value="l">Left</option>
+				<option value="r">Right</option>
+			</select>
+		</p>
+
+		<input type='submit' value="Add Shape">
+	</form>
+	
+	<div id='temp'></div>
+
+</body>
+</html>
