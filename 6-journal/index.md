@@ -33,4 +33,4 @@ Click [here](https://hyperdev.com/#!/project/plain-carp) for a demonstration of 
 
 ---
 
-[Home](/) | [Prev](/5-calculator/) | [Next](/7-snake-game/)
+[Home](/) | [Prev](/5-madlib-generator/) | [Next](/7-snake-game/)
