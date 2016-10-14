@@ -36,7 +36,7 @@ The course is organized into a set of projects; each building on it's predecesso
 - [Maze](/3-maze-game/)
 - [Magic Eight Ball](/4-magic-eight-ball/)
 - [Madlibs Generator](/5-madlib-generator/)
-- [Shapes](/6-shapes/)
+- [Shapes](/6-shape-app/)
 - [Snake](/7-snake-game/)
 
 ## HTML Cheatsheet
