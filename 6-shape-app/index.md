@@ -14,6 +14,7 @@ We will introduce several new concepts:
 
 - [Testing values using conditionals](conditionals)
 - [Getting data from forms](forms)
+- [Using the drawing library](twolib)
 - [Simplifying your program](refactoring)
 
 ---
