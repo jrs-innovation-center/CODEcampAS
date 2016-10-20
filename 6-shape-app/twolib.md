@@ -16,9 +16,9 @@ The library takes an area of the web page (usually a `div`) and turns it into a 
 
 In this example we shown how the two library is used:
 
-<a class="jsbin-embed" href="http://jsbin.com/xemijib/2/embed?html,output"> on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/xemijib/2/embed?html,output&height=55em"> on jsbin.com</a>
 
-We first create a copy (or instance) of the library that we can use. 
+We first create a copy (or instance) of the library that we can use.
 We then assocaite this instance with an area on the page.
 
 Next we create a rectangle using the makeRectangle function.
@@ -41,7 +41,7 @@ Using the two.js library:
 1. Associate it with an area on the page
 1. Make one or two rectangles in the area on the page.
 
-<a class="jsbin-embed" href="http://jsbin.com/mecinib/3/embed?html,output">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/mecinib/3/embed?html,output&height=55em">JS Bin on jsbin.com</a>
 
 ---
 

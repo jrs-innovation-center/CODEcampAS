@@ -1,4 +1,4 @@
-# Shapes on the Screen
+# Moving Shapes #
 
 In this project we will create an app to make and move shapes on the screen.
 
@@ -10,7 +10,7 @@ We will introduce several new concepts:
 
 ---
 
-## Lessons
+## Lessons ##
 
 - [Testing values using conditionals](conditionals)
 - [Getting data from forms](forms)
@@ -19,18 +19,18 @@ We will introduce several new concepts:
 
 ---
 
-Click [here](http://jsbin.com/suquhij) for a demonstration of the shape app.
-
+Click [here](https://jsbin.com/hiqune) for a demonstration of the shape app.
 ---
 
-## Exercises ##
+## Project ##
 
 - [Create the form](1)
 - [Make the form dynamic](2)
 - [Create the shapes](3)
-- [Add motion to the shapes](4)
-- [Stop and start the shapes](5)
-- [Reset the shapes to start over](6)
+- [Make sure the shapes are the right size](4)
+- [Add motion to the shapes](5)
+- [Stop and start the shapes](6)
+- [Reset the shapes to start over](7)
 
 ---
 

@@ -1,9 +1,3 @@
-const colors = {red : '#ff0000',
-                green : '#008000',
-                blue : '#0000ff',
-                black : '#000000',
-                orange : '#ffa500'}
-    
 const spaceWidth = 400
 const spaceHeight = 400
 
@@ -32,20 +26,14 @@ function AddShape(e) {
         if (isNaN(radius)) {
             return
         }
-        var circle = two.makeCircle(x, y, radius)
-        circle.fill = colors[form.elements['color'].value]
-        myShapes.push({ shape: circle, 
-                        direction : form.elements['direction'].value})
+        var newShape = two.makeCircle(x, y, radius)
 
     } else if (form.elements['shape'].value == 'square') {
         var sideLen = ValidateLength(form.elements['sqSideLen'].value, "side length")
         if (isNaN(sideLen)) {
             return
         }
-        var square = two.makeRectangle(x, y, sideLen, sideLen)
-        square.fill = colors[form.elements['color'].value]
-        myShapes.push({ shape: square, 
-                        direction : form.elements['direction'].value})
+        var newShape = two.makeRectangle(x, y, sideLen, sideLen)
 
     } else if (form.elements['shape'].value == 'rectangle') {
         var width = ValidateLength(form.elements['rectWidth'].value, "width")
@@ -56,16 +44,18 @@ function AddShape(e) {
         if (isNaN(height)) {
             return
         }
-        var rect = two.makeRectangle(x, y, width, height)
-        rect.fill = colors[form.elements['color'].value]
-        myShapes.push({ shape: rect, 
-                        direction : form.elements['direction'].value})
+        var newShape = two.makeRectangle(x, y, width, height)
 
     } else {
         window.alert("Select a shape\nCircle, Square or Rectangle")
         return
     } 
     
+    newShape.fill = form.elements['color'].value
+    myShapes.push({ shape: newShape, 
+                    direction : form.elements['direction'].value})
+
+  
     ResetForm()
     
 }
