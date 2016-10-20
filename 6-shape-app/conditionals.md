@@ -50,7 +50,7 @@ if ( a == b || a == c) {
 
 This example showns the use of several of the operators. Run the example to see how the comparisons work.
 
-<a class="jsbin-embed" href="http://jsbin.com/sinapiy/4/embed?html,console">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/sinapiy/4/embed?html,console&height=55em">JS Bin on jsbin.com</a>
 
 ---
 
@@ -58,7 +58,7 @@ This example showns the use of several of the operators. Run the example to see 
 
 In this exercise, create your own tests.
 
-<a class="jsbin-embed" href="http://jsbin.com/fuwiji/2/embed?html,console">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/fuwiji/2/embed?html,console&height=55em">JS Bin on jsbin.com</a>
 
 ---
 
@@ -91,7 +91,7 @@ if (conditional) {
 
 Take a look at the following example:
 
-<a class="jsbin-embed" href="http://jsbin.com/hosoyib/3/embed?html,console">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/hosoyib/3/embed?html,console&height=55em">JS Bin on jsbin.com</a>
 
 ---
 
@@ -99,7 +99,7 @@ Take a look at the following example:
 
 Now create a stacked set of `if` statements testing a string for the values 'frodo', 'bilbo' and 'gandalf'.
 
-<a class="jsbin-embed" href="http://jsbin.com/bosedek/4/embed?html,console">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/bosedek/4/embed?html,console&height=55em">JS Bin on jsbin.com</a>
 
 ---
 
