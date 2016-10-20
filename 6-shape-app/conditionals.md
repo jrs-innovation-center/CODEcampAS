@@ -48,9 +48,9 @@ if ( a == b || a == c) {
 
 ## Example 1 ##
 
-This example showns the use of several of the operators. Run the example to see how the comparisons work.
+This example showns the use of several of the operators. Clear the Console then run to see how the comparisons work.
 
-<a class="jsbin-embed" href="http://jsbin.com/sinapiy/4/embed?html,console&height=55em">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/sinapiy/7/embed?html,console&height=71em">JS Bin on jsbin.com</a>
 
 ---
 
@@ -82,7 +82,7 @@ if (conditional) {
 } else if (conditional) {
    statements
 } else if (conditional) {
-   statement
+   statements
 } else {
    statements
 }

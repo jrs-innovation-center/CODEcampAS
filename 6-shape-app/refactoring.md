@@ -49,11 +49,11 @@ need to change it in one place. This makes your program easier to expand and ext
 Another common refactoring is to take some set of statements that are repeated and make them into a function.
 In this example we see a piece of code thats used several times.
 
-<a class="jsbin-embed" href="http://jsbin.com/giwipab/2/embed?html,console&height=55em">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/giwipab/2/embed?html,console&height=33em">JS Bin on jsbin.com</a>
 
 We can create a function to do the common operations:
 
-<a class="jsbin-embed" href="http://jsbin.com/zupihip/3/embed?html,console&height=55em">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/zupihip/3/embed?html,console&height=35em">JS Bin on jsbin.com</a>
 
 ---
 
@@ -61,7 +61,7 @@ We can create a function to do the common operations:
 
 Look at the following code. Create a function for the repeated operations.
 
-<a class="jsbin-embed" href="http://jsbin.com/nugole/2/embed?html,output&height=55em">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/nugole/5/embed?html,console&height=40em">JS Bin on jsbin.com</a>
 
 ---
 
