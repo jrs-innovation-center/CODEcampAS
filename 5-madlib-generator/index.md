@@ -23,7 +23,7 @@ Click [here](https://output.jsbin.com/gademu/7) to see a demonstration of the ma
 
 ## Project
 
-> Using the jsbin editor `https://jsbin.com/?html,js,output`,  create a new project.
+> Using the code10k editor `www.code10k.com`,  create a new project.
 
 - [Create a story](1)
 - [Build the form](2)
