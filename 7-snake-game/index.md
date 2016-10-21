@@ -26,4 +26,4 @@ Click [here](https://hyperdev.com/#!/project/denim-scarer) to view a demonstrati
 
 ---
 
-[Home](/) | [Prev](/6-journal/)
+[Home](/) | [Prev](/6-shape-app/)

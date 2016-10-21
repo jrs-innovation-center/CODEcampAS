@@ -29,4 +29,4 @@ Click [here](https://output.jsbin.com/gademu/7) to see a demonstration of the ma
 - [Build the form](2)
 - [Generate the madLib](3)
 
-[Home](/) | [Prev](/4-magic-eight-ball) | [Next](/6-journal)
+[Home](/) | [Prev](/4-magic-eight-ball) | [Next](/6-shape-app)

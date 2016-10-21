@@ -21,4 +21,4 @@ Using this project, we will introduce you to `JavaScript`, a programming languag
 - [Create the Random Function](5)
 - [Tie everything together](6)
 
-[Home](/) | [Prev](/3-maze-game) | [Next](/5-calculator)
+[Home](/) | [Prev](/3-maze-game) | [Next](/5-madlib-generator)
