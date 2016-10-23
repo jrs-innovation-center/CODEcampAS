@@ -37,7 +37,7 @@ we will shown first how we can react to changes in the dropdown box and
 second, we will show how we can turn elements on the page on and off.
 In this example, picking a choice from the dropdown list will hide one paragraph and show another.
 
-<a class="jsbin-embed" href="http://jsbin.com/yojuse/1/embed?html,output&height=55em">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/yojuse/3/embed?html,output&height=55em">JS Bin on jsbin.com</a>
 
 ---
 

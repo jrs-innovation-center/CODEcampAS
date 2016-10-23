@@ -16,7 +16,7 @@ The library takes an area of the web page (usually a `div`) and turns it into a 
 
 In this example we shown how the two library is used:
 
-<a class="jsbin-embed" href="http://jsbin.com/xemijib/2/embed?html,output&height=55em"> on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/xemijib/5/embed?html,output&height=55em"> on jsbin.com</a>
 
 We first create a copy (or instance) of the library that we can use.
 We then assocaite this instance with an area on the page.
