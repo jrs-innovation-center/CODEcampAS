@@ -55,8 +55,8 @@ function AddShape(e) {
     myShapes.push({ shape: newShape, 
                     direction : form.elements['direction'].value})
 
-  
-    ResetForm()
+    HideParms()
+    document.getElementById("theForm").reset()
     
 }
 
@@ -111,7 +111,7 @@ function MoveStuff() {
 }
 
 function ClearShapes() {
-    two.remove(myShapes.map((function (s) { return s.shape })))
+    myShapes.map((function (s){ two.remove(s.shape); }))
     myShapes = []
     two.update()
 }
@@ -123,8 +123,6 @@ function HideParms() {
 }
 
 function ResetForm() {
-    HideParms()
-    document.getElementById("theForm").reset()
 }
 
 function randomLocation(max) {
