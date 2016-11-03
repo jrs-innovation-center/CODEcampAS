@@ -11,7 +11,7 @@ Snake is a game where the player maneuvers a line which grows in length with the
 
 ---
 
-Click [here](https://hyperdev.com/#!/project/denim-scarer) to view a demonstration of the game.
+Click [here](http://codepen.io/rcrosby/pen/vyBZJX) to view a CODEPEN of the game.
 
 ---
 
